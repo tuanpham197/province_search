@@ -1,0 +1,4448 @@
+[
+    {
+      "id": 1,
+      "china_name": "胡志明市",
+      "phien_am": "Hú Zhìmíng shì T",
+      "viet_name": "TP Hồ Chí Minh"
+    },
+    {
+      "id": 2,
+      "china_name": "第1郡",
+      "phien_am": "dì 1 jùn",
+      "viet_name": "Quận 1"
+    },
+    {
+      "id": 3,
+      "china_name": "…",
+      "phien_am": "sửa số 2 – 9",
+      "viet_name": "số tiếng trung"
+    },
+    {
+      "id": 4,
+      "china_name": "第12郡",
+      "phien_am": "dì 12 jùn",
+      "viet_name": "Quận 12"
+    },
+    {
+      "id": 5,
+      "china_name": "旧邑郡",
+      "phien_am": "Jiù Yì jùn",
+      "viet_name": "Gò Vấp"
+    },
+    {
+      "id": 6,
+      "china_name": "新平郡",
+      "phien_am": "Xīn Píng jùn",
+      "viet_name": "Tân Bình"
+    },
+    {
+      "id": 7,
+      "china_name": "新富郡",
+      "phien_am": "Xīn Fù jùn",
+      "viet_name": "Tân Phú"
+    },
+    {
+      "id": 8,
+      "china_name": "平盛郡",
+      "phien_am": "Píng Shèng jùn",
+      "viet_name": "Bình Thạnh"
+    },
+    {
+      "id": 9,
+      "china_name": "富润郡",
+      "phien_am": "Fù Rùn jùn",
+      "viet_name": "Phú Nhuận"
+    },
+    {
+      "id": 10,
+      "china_name": "首德郡",
+      "phien_am": "Shǒu Dé jùn",
+      "viet_name": "Thủ Đức"
+    },
+    {
+      "id": 11,
+      "china_name": "平新郡",
+      "phien_am": "Píng Xīn jùn",
+      "viet_name": "Bình Tân"
+    },
+    {
+      "id": 12,
+      "china_name": "苏志县",
+      "phien_am": "Sū Zhì xiàn",
+      "viet_name": "Củ Chi"
+    },
+    {
+      "id": 13,
+      "china_name": "庄鹏县",
+      "phien_am": "Zhuāng Péng xiàn",
+      "viet_name": "Hóc Môn"
+    },
+    {
+      "id": 14,
+      "china_name": "平政县",
+      "phien_am": "Píng Zhèng xiàn",
+      "viet_name": "Bình Chánh"
+    },
+    {
+      "id": 15,
+      "china_name": "芽郫县",
+      "phien_am": "Yá Pí xiàn",
+      "viet_name": "Nhà Bè"
+    },
+    {
+      "id": 16,
+      "china_name": "芹耶县",
+      "phien_am": "Qín Yē xiàn",
+      "viet_name": "Cần Giờ"
+    },
+    {
+      "id": 1,
+      "china_name": "河内市",
+      "phien_am": "Hé Nèi shì",
+      "viet_name": "Hà Nội"
+    },
+    {
+      "id": 2,
+      "china_name": "巴亭郡",
+      "phien_am": "Bā Tíng jùn",
+      "viet_name": "Ba Đình"
+    },
+    {
+      "id": 3,
+      "china_name": "纸桥郡",
+      "phien_am": "Zhǐ Qiáo jùn",
+      "viet_name": "Cầu Giấy"
+    },
+    {
+      "id": 4,
+      "china_name": "栋多郡",
+      "phien_am": "Dòng Duō jùn",
+      "viet_name": "Đống Đa"
+    },
+    {
+      "id": 5,
+      "china_name": "二征夫人郡",
+      "phien_am": "Èr Zhēng Fū Rén jùn",
+      "viet_name": "Hai Bà Trưng"
+    },
+    {
+      "id": 6,
+      "china_name": "还剑郡",
+      "phien_am": "Huán Jiàn jùn",
+      "viet_name": "Hoàn Kiếm"
+    },
+    {
+      "id": 7,
+      "china_name": "黄梅郡",
+      "phien_am": "Huáng Méi jùn",
+      "viet_name": "Hoàng Mai"
+    },
+    {
+      "id": 8,
+      "china_name": "龙边郡",
+      "phien_am": "Lóng Biān jùn",
+      "viet_name": "Long Biên"
+    },
+    {
+      "id": 9,
+      "china_name": "西湖郡",
+      "phien_am": "Xī Hú jùn",
+      "viet_name": "Tây Hồ"
+    },
+    {
+      "id": 10,
+      "china_name": "青春郡",
+      "phien_am": "Qīng Chūn jùn",
+      "viet_name": "Thanh Xuân"
+    },
+    {
+      "id": 11,
+      "china_name": "东英县",
+      "phien_am": "Dōng Yīng xiàn",
+      "viet_name": "Đông Anh"
+    },
+    {
+      "id": 12,
+      "china_name": "嘉林县",
+      "phien_am": "Jiā Lín xiàn",
+      "viet_name": "Gia Lâm"
+    },
+    {
+      "id": 13,
+      "china_name": "朔山县",
+      "phien_am": "Shuò Shān xiàn",
+      "viet_name": "Sóc Sơn"
+    },
+    {
+      "id": 14,
+      "china_name": "青池县",
+      "phien_am": "Qīng Chí xiàn",
+      "viet_name": "Thanh Trì"
+    },
+    {
+      "id": 15,
+      "china_name": "慈廉县",
+      "phien_am": "Cí Lián xiàn",
+      "viet_name": "Từ Liêm"
+    },
+    {
+      "id": 16,
+      "china_name": "麋泠县",
+      "phien_am": "Mí Líng xiàn",
+      "viet_name": "Mê Linh"
+    },
+    {
+      "id": 1,
+      "china_name": "海防市",
+      "phien_am": "Hǎi Fáng shì",
+      "viet_name": "Hải Phòng"
+    },
+    {
+      "id": 2,
+      "china_name": "涂山郡",
+      "phien_am": "Tú Shān jùn",
+      "viet_name": "Đồ Sơn"
+    },
+    {
+      "id": 3,
+      "china_name": "阳京郡",
+      "phien_am": "Yáng Jīng jùn",
+      "viet_name": "Dương Kinh"
+    },
+    {
+      "id": 4,
+      "china_name": "海安郡",
+      "phien_am": "Hǎi Ān jùn",
+      "viet_name": "Hải An"
+    },
+    {
+      "id": 5,
+      "china_name": "鸿庞郡",
+      "phien_am": "Hóng Páng jùn",
+      "viet_name": "Hồng Bàng"
+    },
+    {
+      "id": 6,
+      "china_name": "吴权郡",
+      "phien_am": "Wú Quán jùn",
+      "viet_name": "Ngô Quyền"
+    },
+    {
+      "id": 7,
+      "china_name": "黎真郡",
+      "phien_am": "Lí Zhēn jùn",
+      "viet_name": "Lê Chân"
+    },
+    {
+      "id": 8,
+      "china_name": "建安郡",
+      "phien_am": "Jiàn Ān jùn",
+      "viet_name": "Kiến An"
+    },
+    {
+      "id": 9,
+      "china_name": "水源县",
+      "phien_am": "Shuǐ Yuán xiàn",
+      "viet_name": "Thủy Nguyên"
+    },
+    {
+      "id": 10,
+      "china_name": "安阳县",
+      "phien_am": "Ān Yáng xiàn",
+      "viet_name": "An Dương"
+    },
+    {
+      "id": 11,
+      "china_name": "先浪县",
+      "phien_am": "Xiān Làng xiàn",
+      "viet_name": "Tiên Lãng"
+    },
+    {
+      "id": 12,
+      "china_name": "永宝县",
+      "phien_am": "Yǒng Bǎo xiàn",
+      "viet_name": "Vĩnh Bảo"
+    },
+    {
+      "id": 13,
+      "china_name": "安老县",
+      "phien_am": "Ān Lǎo xiàn",
+      "viet_name": "An Lão"
+    },
+    {
+      "id": 14,
+      "china_name": "建瑞县",
+      "phien_am": "Jiàn Ruì xiàn",
+      "viet_name": "Kiến Thụy"
+    },
+    {
+      "id": 15,
+      "china_name": "吉海岛县",
+      "phien_am": "Jí Hǎi Dǎo xiàn",
+      "viet_name": "huyện đảo Cát Hải"
+    },
+    {
+      "id": 16,
+      "china_name": "白龙尾岛县",
+      "phien_am": "Bái Lóng Wěi Dǎo xiàn",
+      "viet_name": "huyện đảo Bạch Long Vĩ"
+    },
+    {
+      "id": 1,
+      "china_name": "北宁省",
+      "phien_am": "Běi Níng shěng",
+      "viet_name": "Bắc Ninh"
+    },
+    {
+      "id": 2,
+      "china_name": "北宁市",
+      "phien_am": "Běi Níng shì",
+      "viet_name": "thành phố Bắc Ninh"
+    },
+    {
+      "id": 3,
+      "china_name": "慈山市",
+      "phien_am": "Cí Shān shì",
+      "viet_name": "thị xã Từ Sơn"
+    },
+    {
+      "id": 4,
+      "china_name": "嘉平县",
+      "phien_am": "Jiā Píng xiàn",
+      "viet_name": "Gia Bình"
+    },
+    {
+      "id": 5,
+      "china_name": "良才县",
+      "phien_am": "Liáng Cái xiàn",
+      "viet_name": "Lương Tài"
+    },
+    {
+      "id": 6,
+      "china_name": "桂武县",
+      "phien_am": "Guì Wǔ xiàn",
+      "viet_name": "Quế Võ"
+    },
+    {
+      "id": 7,
+      "china_name": "顺成县",
+      "phien_am": "Shùn Chéng xiàn",
+      "viet_name": "Thuận Thành"
+    },
+    {
+      "id": 8,
+      "china_name": "仙游县",
+      "phien_am": "Xiān Yóu xiàn",
+      "viet_name": "Tiên Du"
+    },
+    {
+      "id": 9,
+      "china_name": "安丰县",
+      "phien_am": "Ān Fēng xiàn",
+      "viet_name": "Yên Phong"
+    },
+    {
+      "id": 1,
+      "china_name": "北江省",
+      "phien_am": "Běi jiāng shěng",
+      "viet_name": "Bắc Giang"
+    },
+    {
+      "id": 2,
+      "china_name": "北江市",
+      "phien_am": "běi jiāng shì",
+      "viet_name": "thành phố Bắc Giang"
+    },
+    {
+      "id": 3,
+      "china_name": "安世县",
+      "phien_am": "ān shì xiàn",
+      "viet_name": "Yên Thế"
+    },
+    {
+      "id": 4,
+      "china_name": "新安县",
+      "phien_am": "xīn ān xiàn",
+      "viet_name": "Tân Yên"
+    },
+    {
+      "id": 5,
+      "china_name": "陆岸县",
+      "phien_am": "lù àn xiàn",
+      "viet_name": "Lục Ngạn"
+    },
+    {
+      "id": 6,
+      "china_name": "协和县",
+      "phien_am": "xié hé xiàn",
+      "viet_name": "Hiệp Hoà"
+    },
+    {
+      "id": 7,
+      "china_name": "谅江县",
+      "phien_am": "liàng jiāng xiàn",
+      "viet_name": "Lạng Giang"
+    },
+    {
+      "id": 8,
+      "china_name": "山洞县",
+      "phien_am": "shān dòng xiàn",
+      "viet_name": "Sơn Động"
+    },
+    {
+      "id": 9,
+      "china_name": "陆南县",
+      "phien_am": "lù nán xiàn",
+      "viet_name": "Lục Nam"
+    },
+    {
+      "id": 10,
+      "china_name": "越安县",
+      "phien_am": "yuè ān xiàn",
+      "viet_name": "Việt Yên"
+    },
+    {
+      "id": 11,
+      "china_name": "安勇县",
+      "phien_am": "ān yǒng xiàn",
+      "viet_name": "Yên Dũng"
+    },
+    {
+      "id": 1,
+      "china_name": "河西省",
+      "phien_am": "Hé Xī shěng",
+      "viet_name": "Hà Tây"
+    },
+    {
+      "id": 2,
+      "china_name": "河东市",
+      "phien_am": "Hé Dōng shì",
+      "viet_name": "thành phố Hà Đông"
+    },
+    {
+      "id": 3,
+      "china_name": "山西市",
+      "phien_am": "Shān Xī shì",
+      "viet_name": "thành phố Sơn Tây"
+    },
+    {
+      "id": 4,
+      "china_name": "巴维县",
+      "phien_am": "Bā Wéi xiàn",
+      "viet_name": "Ba Vì"
+    },
+    {
+      "id": 5,
+      "china_name": "彰美县",
+      "phien_am": "Zhāng Měi xiàn",
+      "viet_name": "Chương Mỹ"
+    },
+    {
+      "id": 6,
+      "china_name": "丹凤县",
+      "phien_am": "Dān Fèng xiàn",
+      "viet_name": "Đan Phượng"
+    },
+    {
+      "id": 7,
+      "china_name": "怀德县",
+      "phien_am": "Huái Dé xiàn",
+      "viet_name": "Hoài Đức"
+    },
+    {
+      "id": 8,
+      "china_name": "美德县",
+      "phien_am": "Měi Dé xiàn",
+      "viet_name": "Mỹ Đức"
+    },
+    {
+      "id": 9,
+      "china_name": "富川县",
+      "phien_am": "Fù Chuān xiàn",
+      "viet_name": "Phú Xuyên"
+    },
+    {
+      "id": 10,
+      "china_name": "福寿县",
+      "phien_am": "Fú Shòu xiàn",
+      "viet_name": "Phúc Thọ"
+    },
+    {
+      "id": 11,
+      "china_name": "国威县",
+      "phien_am": "Guó Wēi xiàn",
+      "viet_name": "Quốc Oai"
+    },
+    {
+      "id": 12,
+      "china_name": "石室县",
+      "phien_am": "Shí Shì xiàn",
+      "viet_name": "Thạch Thất"
+    },
+    {
+      "id": 13,
+      "china_name": "青威县",
+      "phien_am": "Qīng Wēi xiàn",
+      "viet_name": "Thanh Oai"
+    },
+    {
+      "id": 14,
+      "china_name": "常信县",
+      "phien_am": "Cháng Xìn xiàn",
+      "viet_name": "Thường Tín"
+    },
+    {
+      "id": 15,
+      "china_name": "应和县",
+      "phien_am": "Yìng Hé xiàn",
+      "viet_name": "Ứng Hòa"
+    },
+    {
+      "id": 1,
+      "china_name": "北干省",
+      "phien_am": "běi gān shěng",
+      "viet_name": "Bắc Kạn"
+    },
+    {
+      "id": 2,
+      "china_name": "北干市",
+      "phien_am": "běi gān shì",
+      "viet_name": "thị xã Bắc Kạn"
+    },
+    {
+      "id": 3,
+      "china_name": "三波县",
+      "phien_am": "sān bō xiàn",
+      "viet_name": "Ba Bể"
+    },
+    {
+      "id": 4,
+      "china_name": "白松县",
+      "phien_am": "bái sōng xiàn",
+      "viet_name": "Bạch Thông"
+    },
+    {
+      "id": 5,
+      "china_name": "屯市县",
+      "phien_am": "tún shì xiàn",
+      "viet_name": "Chợ Đồn"
+    },
+    {
+      "id": 6,
+      "china_name": "新市县",
+      "phien_am": "xīn shì xiàn",
+      "viet_name": "Chợ Mới"
+    },
+    {
+      "id": 7,
+      "china_name": "纳里县",
+      "phien_am": "nà lǐ xiàn",
+      "viet_name": "Na Rì"
+    },
+    {
+      "id": 8,
+      "china_name": "银山县",
+      "phien_am": "yín shān xiàn",
+      "viet_name": "Ngân Sơn"
+    },
+    {
+      "id": 9,
+      "china_name": "博南县",
+      "phien_am": "bó nán xiàn",
+      "viet_name": "Pác Nặm"
+    },
+    {
+      "id": 1,
+      "china_name": "谅山省",
+      "phien_am": "liàng shān shěng",
+      "viet_name": "Lạng Sơn"
+    },
+    {
+      "id": 2,
+      "china_name": "谅山市",
+      "phien_am": "liàng shān shì",
+      "viet_name": "thành phố Lạng Sơn"
+    },
+    {
+      "id": 3,
+      "china_name": "长定县",
+      "phien_am": "cháng dìng xiàn",
+      "viet_name": "Tràng Định"
+    },
+    {
+      "id": 4,
+      "china_name": "文浪县",
+      "phien_am": "wén làng xiàn",
+      "viet_name": "Văn Lãng"
+    },
+    {
+      "id": 5,
+      "china_name": "文官县",
+      "phien_am": "wén guān xiàn",
+      "viet_name": "Văn Quan"
+    },
+    {
+      "id": 6,
+      "china_name": "平嘉县",
+      "phien_am": "píng jiā xiàn",
+      "viet_name": "Bình Gia"
+    },
+    {
+      "id": 7,
+      "china_name": "北山县",
+      "phien_am": "běi shān xiàn",
+      "viet_name": "Bắc Sơn"
+    },
+    {
+      "id": 8,
+      "china_name": "友陇县",
+      "phien_am": "yǒu lǒng xiàn",
+      "viet_name": "Hữu Lũng"
+    },
+    {
+      "id": 9,
+      "china_name": "芝陵县",
+      "phien_am": "zhī líng xiàn",
+      "viet_name": "Chi Lăng"
+    },
+    {
+      "id": 10,
+      "china_name": "高禄县",
+      "phien_am": "gāo lù xiàn",
+      "viet_name": "Cao Lộc"
+    },
+    {
+      "id": 11,
+      "china_name": "禄平县",
+      "phien_am": "lù píng xiàn",
+      "viet_name": "Lộc Bình"
+    },
+    {
+      "id": 12,
+      "china_name": "亭立县",
+      "phien_am": "tíng lì xiàn",
+      "viet_name": "Đình Lập"
+    },
+    {
+      "id": 1,
+      "china_name": "高平省",
+      "phien_am": "Gāo Píng shěng",
+      "viet_name": "Cao Bằng"
+    },
+    {
+      "id": 2,
+      "china_name": "高平市",
+      "phien_am": "Gāo Píng shì",
+      "viet_name": "thành phố Cao Bằng"
+    },
+    {
+      "id": 3,
+      "china_name": "保乐县",
+      "phien_am": "Bǎo Lè xiàn",
+      "viet_name": "Bảo Lạc"
+    },
+    {
+      "id": 4,
+      "china_name": "保林县",
+      "phien_am": "Bǎo Lín xiàn",
+      "viet_name": "Bảo Lâm"
+    },
+    {
+      "id": 5,
+      "china_name": "下琅县",
+      "phien_am": "Xià Láng xiàn",
+      "viet_name": "Hạ Lang"
+    },
+    {
+      "id": 6,
+      "china_name": "河广县",
+      "phien_am": "Hé Guǎng xiàn",
+      "viet_name": "Hà Quảng"
+    },
+    {
+      "id": 7,
+      "china_name": "和安县",
+      "phien_am": "Hé Ān xiàn",
+      "viet_name": "Hoà An"
+    },
+    {
+      "id": 8,
+      "china_name": "原平县",
+      "phien_am": "Yuán Píng xiàn",
+      "viet_name": "Nguyên Bình"
+    },
+    {
+      "id": 9,
+      "china_name": "福和县",
+      "phien_am": "Fú Hé xiàn",
+      "viet_name": "Phục Hoà"
+    },
+    {
+      "id": 10,
+      "china_name": "广渊县",
+      "phien_am": "Guǎng Yuān xiàn",
+      "viet_name": "Quảng Uyên"
+    },
+    {
+      "id": 11,
+      "china_name": "石安县",
+      "phien_am": "Shí Ān xiàn",
+      "viet_name": "Thạch An"
+    },
+    {
+      "id": 12,
+      "china_name": "通农县",
+      "phien_am": "Tōng Nóng xiàn",
+      "viet_name": "Thông Nông"
+    },
+    {
+      "id": 13,
+      "china_name": "茶岭县",
+      "phien_am": "Chá Lǐng xiàn",
+      "viet_name": "Trà Lĩnh"
+    },
+    {
+      "id": 14,
+      "china_name": "重庆县",
+      "phien_am": "Chóng Qìng xiàn",
+      "viet_name": "Trùng Khánh"
+    },
+    {
+      "id": 1,
+      "china_name": "河江省",
+      "phien_am": "Hé Jiāng shěng",
+      "viet_name": "Hà Giang"
+    },
+    {
+      "id": 2,
+      "china_name": "河江市",
+      "phien_am": "Hé Jiāng shì",
+      "viet_name": "thành phố Hà Giang"
+    },
+    {
+      "id": 3,
+      "china_name": "北迷县",
+      "phien_am": "Běi Mí xiàn",
+      "viet_name": "Bắc Mê"
+    },
+    {
+      "id": 4,
+      "china_name": "北光县",
+      "phien_am": "Běi Guāng xiàn",
+      "viet_name": "Bắc Quang"
+    },
+    {
+      "id": 5,
+      "china_name": "同文县",
+      "phien_am": "Tóng Wén xiàn",
+      "viet_name": "Đồng Văn"
+    },
+    {
+      "id": 6,
+      "china_name": "黄树腓县",
+      "phien_am": "Huáng Shù Féi xiàn",
+      "viet_name": "Hoàng Su Phì"
+    },
+    {
+      "id": 7,
+      "china_name": "苗旺县",
+      "phien_am": "Miáo Wàng xiàn",
+      "viet_name": "Mèo Vạc"
+    },
+    {
+      "id": 8,
+      "china_name": "管箔县",
+      "phien_am": "Guǎn Bó xiàn",
+      "viet_name": "Quản Bạ"
+    },
+    {
+      "id": 9,
+      "china_name": "光平县",
+      "phien_am": "Guǎng Píng xiàn",
+      "viet_name": "Quang Bình"
+    },
+    {
+      "id": 10,
+      "china_name": "渭川县",
+      "phien_am": "Wèi Chuān xiàn",
+      "viet_name": "Vị Xuyên"
+    },
+    {
+      "id": 11,
+      "china_name": "箐门县",
+      "phien_am": "Jīng Mén xiàn",
+      "viet_name": "Xín Mần"
+    },
+    {
+      "id": 12,
+      "china_name": "安明县",
+      "phien_am": "Ān Míng xiàn",
+      "viet_name": "Yên Minh"
+    },
+    {
+      "id": 1,
+      "china_name": "老街省",
+      "phien_am": "Lǎo Jiē shěng",
+      "viet_name": "Lào Cai"
+    },
+    {
+      "id": 2,
+      "china_name": "老街市",
+      "phien_am": "Lǎo Jiē shì",
+      "viet_name": "thành phố Lào Cai"
+    },
+    {
+      "id": 3,
+      "china_name": "保胜县",
+      "phien_am": "Bǎo Shèng xiàn",
+      "viet_name": "Bảo Thắng"
+    },
+    {
+      "id": 4,
+      "china_name": "巴刹县",
+      "phien_am": "Bā Shā xiàn",
+      "viet_name": "Bát Xát"
+    },
+    {
+      "id": 5,
+      "china_name": "保安县",
+      "phien_am": "Bǎo Ān xiàn",
+      "viet_name": "Bảo Yên"
+    },
+    {
+      "id": 6,
+      "china_name": "北河县",
+      "phien_am": "Běi Hé xiàn",
+      "viet_name": "Bắc Hà"
+    },
+    {
+      "id": 7,
+      "china_name": "芒康县",
+      "phien_am": "Máng Kāng xiàn",
+      "viet_name": "Mường Khương"
+    },
+    {
+      "id": 8,
+      "china_name": "沙坝县",
+      "phien_am": "Shā Bà xiàn",
+      "viet_name": "Sa Pa"
+    },
+    {
+      "id": 9,
+      "china_name": "新马街县",
+      "phien_am": "Xīn Mǎ Jiē xiàn",
+      "viet_name": "Si Ma Cai"
+    },
+    {
+      "id": 10,
+      "china_name": "文磐县",
+      "phien_am": "Wén Pán xiàn",
+      "viet_name": "Văn Bàn"
+    },
+    {
+      "id": 1,
+      "china_name": "莱州省",
+      "phien_am": "lái zhōu shěng",
+      "viet_name": "Lai Châu"
+    },
+    {
+      "id": 2,
+      "china_name": "莱州市",
+      "phien_am": "lái zhōu shì",
+      "viet_name": "thị xã Lai Châu"
+    },
+    {
+      "id": 3,
+      "china_name": "三堂县",
+      "phien_am": "sān táng xiàn",
+      "viet_name": "Tam Đường"
+    },
+    {
+      "id": 4,
+      "china_name": "巡胡县",
+      "phien_am": "xún hú xiàn",
+      "viet_name": "Sìn Hồ"
+    },
+    {
+      "id": 5,
+      "china_name": "碳渊县",
+      "phien_am": "tàn yuān xiàn",
+      "viet_name": "Than Uyên"
+    },
+    {
+      "id": 6,
+      "china_name": "封土县",
+      "phien_am": "fēng tǔ xiàn",
+      "viet_name": "Phong Thổ"
+    },
+    {
+      "id": 7,
+      "china_name": "芒寺县",
+      "phien_am": "máng sì xiàn",
+      "viet_name": "Mường Tè"
+    },
+    {
+      "id": 8,
+      "china_name": "新渊县",
+      "phien_am": "xīn yuān xiàn",
+      "viet_name": "Tân Uyên"
+    },
+    {
+      "id": 9,
+      "china_name": "南润县",
+      "phien_am": "nán rùn xiàn",
+      "viet_name": "Nậm Nhùn"
+    },
+    {
+      "id": 1,
+      "china_name": "宣光省",
+      "phien_am": "xuān guāng shěng",
+      "viet_name": "Tuyên Quang"
+    },
+    {
+      "id": 2,
+      "china_name": "宣光市",
+      "phien_am": "xuān guāng shì",
+      "viet_name": "thị xã Tuyên Quang"
+    },
+    {
+      "id": 3,
+      "china_name": "占化县",
+      "phien_am": "zhàn huà xiàn",
+      "viet_name": "Chiêm Hoá"
+    },
+    {
+      "id": 4,
+      "china_name": "咸安县",
+      "phien_am": "xián ān xiàn",
+      "viet_name": "Hàm Yên"
+    },
+    {
+      "id": 5,
+      "china_name": "纳杭县",
+      "phien_am": "nà háng xiàn",
+      "viet_name": "Nà Hang"
+    },
+    {
+      "id": 6,
+      "china_name": "山阳县",
+      "phien_am": "shān yáng xiàn",
+      "viet_name": "Sơn Dương"
+    },
+    {
+      "id": 7,
+      "china_name": "安山县",
+      "phien_am": "ān shān xiàn",
+      "viet_name": "Yên Sơn"
+    },
+    {
+      "id": 8,
+      "china_name": "林平县",
+      "phien_am": "lín píng xiàn",
+      "viet_name": "Lâm Bình"
+    },
+    {
+      "id": 1,
+      "china_name": "安沛省",
+      "phien_am": "ān pèi shěng",
+      "viet_name": "Yên Bái"
+    },
+    {
+      "id": 2,
+      "china_name": "安沛市",
+      "phien_am": "ān pèi shì",
+      "viet_name": "thành phố Yên Bái"
+    },
+    {
+      "id": 3,
+      "china_name": "义路市",
+      "phien_am": "yì lù shì",
+      "viet_name": "thị xã Nghĩa Lộ"
+    },
+    {
+      "id": 4,
+      "china_name": "陆安县",
+      "phien_am": "lù ān xiàn",
+      "viet_name": "Lục Yên"
+    },
+    {
+      "id": 5,
+      "china_name": "木江界县",
+      "phien_am": "mù jiāng jiè xiàn",
+      "viet_name": "Mù Cang Chải"
+    },
+    {
+      "id": 6,
+      "china_name": "镇安县",
+      "phien_am": "zhèn ān xiàn",
+      "viet_name": "Trấn Yên"
+    },
+    {
+      "id": 7,
+      "china_name": "站奏县",
+      "phien_am": "zhàn zòu xiàn",
+      "viet_name": "Trạm Tấu"
+    },
+    {
+      "id": 8,
+      "china_name": "文振县",
+      "phien_am": "wén zhèn xiàn",
+      "viet_name": "Văn Chấn"
+    },
+    {
+      "id": 9,
+      "china_name": "文安县",
+      "phien_am": "wén ān xiàn",
+      "viet_name": "Văn Yên"
+    },
+    {
+      "id": 10,
+      "china_name": "安平县",
+      "phien_am": "ān píng xiàn",
+      "viet_name": "Yên Bình"
+    },
+    {
+      "id": 1,
+      "china_name": "太原省",
+      "phien_am": "tài yuán shěng",
+      "viet_name": "Thái Nguyên"
+    },
+    {
+      "id": 2,
+      "china_name": "太原市",
+      "phien_am": "tài yuán shì",
+      "viet_name": "thành phố Thái Nguyên"
+    },
+    {
+      "id": 3,
+      "china_name": "公河市",
+      "phien_am": "gōng hé shì",
+      "viet_name": "thị xã Sông Công"
+    },
+    {
+      "id": 4,
+      "china_name": "普安县",
+      "phien_am": "pǔ ān xiàn",
+      "viet_name": "Phổ Yên"
+    },
+    {
+      "id": 5,
+      "china_name": "富平县",
+      "phien_am": "fù píng xiàn",
+      "viet_name": "Phú Bình"
+    },
+    {
+      "id": 6,
+      "china_name": "同喜县",
+      "phien_am": "tóng xǐ xiàn",
+      "viet_name": "Đồng Hỷ"
+    },
+    {
+      "id": 7,
+      "china_name": "武涯县",
+      "phien_am": "wǔ yá xiàn",
+      "viet_name": "Võ Nhai"
+    },
+    {
+      "id": 8,
+      "china_name": "定化县",
+      "phien_am": "dìng huà xiàn",
+      "viet_name": "Định Hóa"
+    },
+    {
+      "id": 9,
+      "china_name": "大慈县",
+      "phien_am": "dà cí xiàn",
+      "viet_name": "Đại Từ"
+    },
+    {
+      "id": 10,
+      "china_name": "富梁县",
+      "phien_am": "fù liáng xiàn",
+      "viet_name": "Phú Lương"
+    },
+    {
+      "id": 1,
+      "china_name": "富寿省",
+      "phien_am": "fù shòu shěng",
+      "viet_name": "Phú Thọ"
+    },
+    {
+      "id": 2,
+      "china_name": "越池市",
+      "phien_am": "yuè chí shì",
+      "viet_name": "thành phố Việt Trì"
+    },
+    {
+      "id": 3,
+      "china_name": "富寿市",
+      "phien_am": "fù shòu shì",
+      "viet_name": "thị xã Phú Thọ"
+    },
+    {
+      "id": 4,
+      "china_name": "锦溪县",
+      "phien_am": "jǐn xī xiàn",
+      "viet_name": "Cẩm Khê"
+    },
+    {
+      "id": 5,
+      "china_name": "端雄县",
+      "phien_am": "duān xióng xiàn",
+      "viet_name": "Đoan Hùng"
+    },
+    {
+      "id": 6,
+      "china_name": "夏和县",
+      "phien_am": "xià hé xiàn",
+      "viet_name": "Hạ Hòa"
+    },
+    {
+      "id": 7,
+      "china_name": "林滔县",
+      "phien_am": "lín tāo xiàn",
+      "viet_name": "Lâm Thao"
+    },
+    {
+      "id": 8,
+      "china_name": "符宁县",
+      "phien_am": "fú níng xiàn",
+      "viet_name": "Phù Ninh"
+    },
+    {
+      "id": 9,
+      "china_name": "三农县",
+      "phien_am": "sān nóng xiàn",
+      "viet_name": "Tam Nông"
+    },
+    {
+      "id": 10,
+      "china_name": "新山县",
+      "phien_am": "xīn shān xiàn",
+      "viet_name": "Tân Sơn"
+    },
+    {
+      "id": 11,
+      "china_name": "清波县",
+      "phien_am": "qīng bō xiàn",
+      "viet_name": "Thanh Ba"
+    },
+    {
+      "id": 12,
+      "china_name": "清山县",
+      "phien_am": "qīng shān xiàn",
+      "viet_name": "Thanh Sơn"
+    },
+    {
+      "id": 13,
+      "china_name": "清水县",
+      "phien_am": "qīng shuǐ xiàn",
+      "viet_name": "Thanh Thuỷ"
+    },
+    {
+      "id": 14,
+      "china_name": "安立县",
+      "phien_am": "ān lì xiàn",
+      "viet_name": "Yên Lập"
+    },
+    {
+      "id": 1,
+      "china_name": "山罗省",
+      "phien_am": "shān luó shěng",
+      "viet_name": "Sơn La"
+    },
+    {
+      "id": 2,
+      "china_name": "山罗市",
+      "phien_am": "shān luó shì",
+      "viet_name": "thành phố Sơn La"
+    },
+    {
+      "id": 3,
+      "china_name": "琼涯县",
+      "phien_am": "qióng yá xiàn",
+      "viet_name": "Quỳnh Nhai"
+    },
+    {
+      "id": 4,
+      "china_name": "孟罗县",
+      "phien_am": "mèng luó xiàn",
+      "viet_name": "Mường La"
+    },
+    {
+      "id": 5,
+      "china_name": "顺州县",
+      "phien_am": "shùn zhōu xiàn",
+      "viet_name": "Thuận Châu"
+    },
+    {
+      "id": 6,
+      "china_name": "符安县",
+      "phien_am": "fú ān xiàn",
+      "viet_name": "Phù Yên"
+    },
+    {
+      "id": 7,
+      "china_name": "北安县",
+      "phien_am": "běi ān xiàn",
+      "viet_name": "Bắc Yên"
+    },
+    {
+      "id": 8,
+      "china_name": "梅山县",
+      "phien_am": "méi shān xiàn",
+      "viet_name": "Mai Sơn"
+    },
+    {
+      "id": 9,
+      "china_name": "马河县",
+      "phien_am": "mǎ hé xiàn",
+      "viet_name": "Sông Mã"
+    },
+    {
+      "id": 10,
+      "china_name": "安州县",
+      "phien_am": "ān zhōu xiàn",
+      "viet_name": "Yên Châu"
+    },
+    {
+      "id": 11,
+      "china_name": "木州县",
+      "phien_am": "mù zhōu xiàn",
+      "viet_name": "Mộc Châu"
+    },
+    {
+      "id": 12,
+      "china_name": "梭果县",
+      "phien_am": "suō guǒ xiàn",
+      "viet_name": "Sốp Cộp"
+    },
+    {
+      "id": 13,
+      "china_name": "文胡县",
+      "phien_am": "wén hú xiàn",
+      "viet_name": "Vân Hồ"
+    },
+    {
+      "id": 1,
+      "china_name": "永福省",
+      "phien_am": "Yǒng Fú shěng",
+      "viet_name": "Vĩnh Phúc"
+    },
+    {
+      "id": 2,
+      "china_name": "永安市",
+      "phien_am": "Yǒng Ān shì",
+      "viet_name": "thành phố Vĩnh Yên"
+    },
+    {
+      "id": 3,
+      "china_name": "福安市",
+      "phien_am": "Fú Ān shì",
+      "viet_name": "thị xã Phúc Yên"
+    },
+    {
+      "id": 4,
+      "china_name": "平川县",
+      "phien_am": "Píng Chuān xiàn",
+      "viet_name": "Bình Xuyên"
+    },
+    {
+      "id": 5,
+      "china_name": "立石县",
+      "phien_am": "Lì Shí xiàn",
+      "viet_name": "Lập Thạch"
+    },
+    {
+      "id": 6,
+      "china_name": "泸江县",
+      "phien_am": "lú jiāng xiàn",
+      "viet_name": "Sông lô"
+    },
+    {
+      "id": 7,
+      "china_name": "三阳县",
+      "phien_am": "Sān Yáng xiàn",
+      "viet_name": "Tam Dương"
+    },
+    {
+      "id": 8,
+      "china_name": "三岛县",
+      "phien_am": "Sān Dǎo xiàn",
+      "viet_name": "Tam Đảo"
+    },
+    {
+      "id": 9,
+      "china_name": "永祥县",
+      "phien_am": "Yǒng Xiáng xiàn",
+      "viet_name": "Vĩnh Tường"
+    },
+    {
+      "id": 10,
+      "china_name": "安乐县",
+      "phien_am": "Ān Lè xiàn",
+      "viet_name": "Yên Lạc"
+    },
+    {
+      "id": 1,
+      "china_name": "广宁省",
+      "phien_am": "guǎng níng shěng",
+      "viet_name": "Quảng Ninh"
+    },
+    {
+      "id": 2,
+      "china_name": "下龙市",
+      "phien_am": "xià lóng shì",
+      "viet_name": "thành phố Hạ Long"
+    },
+    {
+      "id": 3,
+      "china_name": "锦普镇",
+      "phien_am": "jǐn pǔ zhèn",
+      "viet_name": "thị xã Cẩm Phả"
+    },
+    {
+      "id": 4,
+      "china_name": "芒街镇",
+      "phien_am": "máng jiē zhèn",
+      "viet_name": "thị xã Móng Cái"
+    },
+    {
+      "id": 5,
+      "china_name": "汪秘镇",
+      "phien_am": "wāng mì zhèn",
+      "viet_name": "thị xã Uông Bí"
+    },
+    {
+      "id": 6,
+      "china_name": "广安市",
+      "phien_am": "guǎng ān shì",
+      "viet_name": "thị xã Quảng Yên"
+    },
+    {
+      "id": 7,
+      "china_name": "波制县",
+      "phien_am": "bō zhì xiàn",
+      "viet_name": "Ba Chẽ"
+    },
+    {
+      "id": 8,
+      "china_name": "平辽县",
+      "phien_am": "píng liáo xiàn",
+      "viet_name": "Bình Liêu"
+    },
+    {
+      "id": 9,
+      "china_name": "姑苏县",
+      "phien_am": "gū sū xiàn",
+      "viet_name": "Cô Tô"
+    },
+    {
+      "id": 10,
+      "china_name": "潭河县",
+      "phien_am": "tán hé xiàn",
+      "viet_name": "Đầm Hà"
+    },
+    {
+      "id": 11,
+      "china_name": "东朝县",
+      "phien_am": "dōng cháo xiàn",
+      "viet_name": "Đông Triều"
+    },
+    {
+      "id": 12,
+      "china_name": "海河县",
+      "phien_am": "hǎi hé xiàn",
+      "viet_name": "Hải Hà"
+    },
+    {
+      "id": 13,
+      "china_name": "横菩县",
+      "phien_am": "héng pú xiàn",
+      "viet_name": "Hoành Bồ"
+    },
+    {
+      "id": 14,
+      "china_name": "先安县",
+      "phien_am": "xiān ān xiàn",
+      "viet_name": "Tiên Yên"
+    },
+    {
+      "id": 15,
+      "china_name": "云屯县",
+      "phien_am": "yún tún xiàn",
+      "viet_name": "Vân Đồn"
+    },
+    {
+      "id": 16,
+      "china_name": "安兴县",
+      "phien_am": "ān xìng xiàn",
+      "viet_name": "Yên Hưng"
+    },
+    {
+      "id": 1,
+      "china_name": "海阳省",
+      "phien_am": "Hǎi Yáng shěng",
+      "viet_name": "Hải Dương"
+    },
+    {
+      "id": 2,
+      "china_name": "海阳市",
+      "phien_am": "Hǎi Yáng shì",
+      "viet_name": "thành phố Hải Dương"
+    },
+    {
+      "id": 3,
+      "china_name": "四歧县",
+      "phien_am": "Sì Qí xiàn",
+      "viet_name": "Tứ Kỳ"
+    },
+    {
+      "id": 4,
+      "china_name": "平江县",
+      "phien_am": "Píng Jiāng xiàn",
+      "viet_name": "Bình Giang"
+    },
+    {
+      "id": 5,
+      "china_name": "金江县",
+      "phien_am": "Jīn Jiāng xiàn",
+      "viet_name": "Cẩm Giàng"
+    },
+    {
+      "id": 6,
+      "china_name": "志灵县",
+      "phien_am": "Zhì Líng xiàn",
+      "viet_name": "Chí Linh"
+    },
+    {
+      "id": 7,
+      "china_name": "嘉禄县",
+      "phien_am": "Jiā Lù xiàn",
+      "viet_name": "Gia Lộc"
+    },
+    {
+      "id": 8,
+      "china_name": "金城县",
+      "phien_am": "Jīn Chéng xiàn",
+      "viet_name": "Kim Thành"
+    },
+    {
+      "id": 9,
+      "china_name": "京门县",
+      "phien_am": "Jīng Mén xiàn",
+      "viet_name": "Kinh Môn"
+    },
+    {
+      "id": 10,
+      "china_name": "南策县",
+      "phien_am": "Nán Cè xiàn",
+      "viet_name": "Nam Sách"
+    },
+    {
+      "id": 11,
+      "china_name": "宁江县",
+      "phien_am": "Níng Jiāng xiàn",
+      "viet_name": "Ninh Giang"
+    },
+    {
+      "id": 12,
+      "china_name": "青河县",
+      "phien_am": "Qīng Hé xiàn",
+      "viet_name": "Thanh Hà"
+    },
+    {
+      "id": 13,
+      "china_name": "青棉县",
+      "phien_am": "Qīng Mián xiàn",
+      "viet_name": "Thanh Miện"
+    },
+    {
+      "id": 1,
+      "china_name": "兴安省",
+      "phien_am": "Xìng Ān shěng",
+      "viet_name": "Hưng Yên"
+    },
+    {
+      "id": 2,
+      "china_name": "兴安市",
+      "phien_am": "Xìng Ān shì",
+      "viet_name": "thị xã Hưng Yên"
+    },
+    {
+      "id": 3,
+      "china_name": "恩施县",
+      "phien_am": "Ēn Shī xiàn",
+      "viet_name": "Ân Thi"
+    },
+    {
+      "id": 4,
+      "china_name": "快州县",
+      "phien_am": "Kuài Zhōu xiàn",
+      "viet_name": "Khoái Châu"
+    },
+    {
+      "id": 5,
+      "china_name": "金洞县",
+      "phien_am": "Jīn Dòng xiàn",
+      "viet_name": "Kim Động"
+    },
+    {
+      "id": 6,
+      "china_name": "美豪县",
+      "phien_am": "Měi Háo xiàn",
+      "viet_name": "Mỹ Hào"
+    },
+    {
+      "id": 7,
+      "china_name": "浮渠县",
+      "phien_am": "fú qú xiàn",
+      "viet_name": "Phù Cừ"
+    },
+    {
+      "id": 8,
+      "china_name": "仙侣县",
+      "phien_am": "Xiān Lǚ xiàn",
+      "viet_name": "Tiên Lữ"
+    },
+    {
+      "id": 9,
+      "china_name": "文江县",
+      "phien_am": "Wén Jiāng xiàn",
+      "viet_name": "Văn Giang"
+    },
+    {
+      "id": 10,
+      "china_name": "文林县",
+      "phien_am": "Wén Lín xiàn",
+      "viet_name": "Văn Lâm"
+    },
+    {
+      "id": 11,
+      "china_name": "安美县",
+      "phien_am": "Ān Měi xiàn",
+      "viet_name": "Yên Mỹ"
+    },
+    {
+      "id": 1,
+      "china_name": "和平省",
+      "phien_am": "Hépíng shěng",
+      "viet_name": "Tỉnh Hòa Bình"
+    },
+    {
+      "id": 2,
+      "china_name": "和平市",
+      "phien_am": "hépíng shì",
+      "viet_name": "thành phố Hòa Bình"
+    },
+    {
+      "id": 3,
+      "china_name": "高峰县",
+      "phien_am": "gāofēng xiàn",
+      "viet_name": "Cao Phong"
+    },
+    {
+      "id": 4,
+      "china_name": "陀北县",
+      "phien_am": "tuó běi xiàn",
+      "viet_name": "Đà Bắc"
+    },
+    {
+      "id": 5,
+      "china_name": "金杯县",
+      "phien_am": "jīnbēi xiàn",
+      "viet_name": "Kim Bôi"
+    },
+    {
+      "id": 6,
+      "china_name": "祺山县",
+      "phien_am": "qí shān xiàn",
+      "viet_name": "Kỳ Sơn"
+    },
+    {
+      "id": 7,
+      "china_name": "乐山县",
+      "phien_am": "yàoshān xiàn",
+      "viet_name": "Lạc Sơn"
+    },
+    {
+      "id": 8,
+      "china_name": "乐水县",
+      "phien_am": "yào shuǐ xiàn",
+      "viet_name": "Lạc Thủy"
+    },
+    {
+      "id": 9,
+      "china_name": "梁山县",
+      "phien_am": "liángshān xiàn",
+      "viet_name": "Lương Sơn"
+    },
+    {
+      "id": 10,
+      "china_name": "梅州县",
+      "phien_am": "méizhōu xiàn",
+      "viet_name": "Mai Châu"
+    },
+    {
+      "id": 11,
+      "china_name": "新乐县",
+      "phien_am": "xīn yuè xiàn",
+      "viet_name": "Tân Lạc"
+    },
+    {
+      "id": 12,
+      "china_name": "安水县",
+      "phien_am": "Ān shuǐ xiàn",
+      "viet_name": "Yên Thủy"
+    },
+    {
+      "id": 1,
+      "china_name": "河南省",
+      "phien_am": "Hé Nán shěng",
+      "viet_name": "Hà Nam"
+    },
+    {
+      "id": 2,
+      "china_name": "府里市",
+      "phien_am": "Fǔ Lǐ shì",
+      "viet_name": "Thành phố Phủ Lý"
+    },
+    {
+      "id": 3,
+      "china_name": "平陆县",
+      "phien_am": "Píng Lù xiàn",
+      "viet_name": "Bình Lục"
+    },
+    {
+      "id": 4,
+      "china_name": "维仙县",
+      "phien_am": "Wéi Xiān xiàn",
+      "viet_name": "Duy Tiên"
+    },
+    {
+      "id": 5,
+      "china_name": "金鹏县",
+      "phien_am": "Jīn Péng xiàn",
+      "viet_name": "Kim Bảng"
+    },
+    {
+      "id": 6,
+      "china_name": "利染县",
+      "phien_am": "Lì Rǎn xiàn",
+      "viet_name": "Lý Nhân"
+    },
+    {
+      "id": 7,
+      "china_name": "清廉县",
+      "phien_am": "Qīng Lián xiàn",
+      "viet_name": "Thanh Liêm"
+    },
+    {
+      "id": 1,
+      "china_name": "太平省",
+      "phien_am": "Tài Píng shěng",
+      "viet_name": "Thái Bình"
+    },
+    {
+      "id": 2,
+      "china_name": "太平市",
+      "phien_am": "Tài Píng shì",
+      "viet_name": "thành phố Thái Bình"
+    },
+    {
+      "id": 3,
+      "china_name": "东兴县",
+      "phien_am": "Dōng Xìng xiàn",
+      "viet_name": "Đông Hưng"
+    },
+    {
+      "id": 4,
+      "china_name": "兴河县",
+      "phien_am": "Xìng Hé xiàn",
+      "viet_name": "Hưng Hà"
+    },
+    {
+      "id": 5,
+      "china_name": "建昌县",
+      "phien_am": "Jiàn Chāng xiàn",
+      "viet_name": "Kiến Xương"
+    },
+    {
+      "id": 6,
+      "china_name": "琼阜县",
+      "phien_am": "qióng fù xiàn",
+      "viet_name": "Quỳnh Phụ"
+    },
+    {
+      "id": 7,
+      "china_name": "泰瑞县",
+      "phien_am": "Tài Ruì xiàn",
+      "viet_name": "Thái Thụy"
+    },
+    {
+      "id": 8,
+      "china_name": "前海县",
+      "phien_am": "qián hăi xiàn",
+      "viet_name": "Tiền Hải"
+    },
+    {
+      "id": 9,
+      "china_name": "武书县",
+      "phien_am": "wǔ shū xiàn",
+      "viet_name": "Vũ Thư"
+    },
+    {
+      "id": 1,
+      "china_name": "宁平省",
+      "phien_am": "Níng Píng shěng",
+      "viet_name": "Ninh Bình"
+    },
+    {
+      "id": 2,
+      "china_name": "宁平市",
+      "phien_am": "Níng Píng shì",
+      "viet_name": "thành phố Ninh Bình"
+    },
+    {
+      "id": 3,
+      "china_name": "三叠市",
+      "phien_am": "Sān Dié shì",
+      "viet_name": "thị xã Tam Điệp"
+    },
+    {
+      "id": 4,
+      "china_name": "嘉远县",
+      "phien_am": "Jiā Yuǎn xiàn",
+      "viet_name": "Gia Viễn"
+    },
+    {
+      "id": 5,
+      "china_name": "华闾县",
+      "phien_am": "Huá Lǘ xiàn",
+      "viet_name": "Hoa Lư"
+    },
+    {
+      "id": 6,
+      "china_name": "金山县",
+      "phien_am": "Jīn Shān xiàn",
+      "viet_name": "Kim Sơn"
+    },
+    {
+      "id": 7,
+      "china_name": "儒关县",
+      "phien_am": "Rú Guān xiàn",
+      "viet_name": "Nho Quan"
+    },
+    {
+      "id": 8,
+      "china_name": "安庆县",
+      "phien_am": "Ān Qìng xiàn",
+      "viet_name": "Yên Khánh"
+    },
+    {
+      "id": 9,
+      "china_name": "安模县",
+      "phien_am": "ān mó xiàn",
+      "viet_name": "Yên Mô"
+    },
+    {
+      "id": 1,
+      "china_name": "南定省",
+      "phien_am": "Nán Dìng shěng",
+      "viet_name": "Nam Định"
+    },
+    {
+      "id": 2,
+      "china_name": "南定市",
+      "phien_am": "Nán Dìng shì",
+      "viet_name": "thành phố Nam Định"
+    },
+    {
+      "id": 3,
+      "china_name": "交水县",
+      "phien_am": "Jiāo Shuǐ xiàn",
+      "viet_name": "Giao Thủy"
+    },
+    {
+      "id": 4,
+      "china_name": "海后县",
+      "phien_am": "Hǎi Hòu xiàn",
+      "viet_name": "Hải Hậu"
+    },
+    {
+      "id": 5,
+      "china_name": "美禄县",
+      "phien_am": "měi lù xiàn",
+      "viet_name": "Mỹ Lộc"
+    },
+    {
+      "id": 6,
+      "china_name": "南直县",
+      "phien_am": "Nán Zhí xiàn",
+      "viet_name": "Nam Trực"
+    },
+    {
+      "id": 7,
+      "china_name": "义兴县",
+      "phien_am": "Yì Xìng xiàn",
+      "viet_name": "Nghĩa Hưng"
+    },
+    {
+      "id": 8,
+      "china_name": "直宁县",
+      "phien_am": "Zhí Níng xiàn",
+      "viet_name": "Trực Ninh"
+    },
+    {
+      "id": 9,
+      "china_name": "务本县",
+      "phien_am": "Wù Běn xiàn",
+      "viet_name": "Vụ Bản"
+    },
+    {
+      "id": 10,
+      "china_name": "春长县",
+      "phien_am": "Chūn Cháng xiàn",
+      "viet_name": "Xuân Trường"
+    },
+    {
+      "id": 11,
+      "china_name": "懿安县",
+      "phien_am": "Yì Ān xiàn",
+      "viet_name": "Ý Yên"
+    },
+    {
+      "id": 1,
+      "china_name": "清化省",
+      "phien_am": "Qīng Huà shěng",
+      "viet_name": "Thanh Hóa"
+    },
+    {
+      "id": 2,
+      "china_name": "清化市",
+      "phien_am": "Qīng Huà shì",
+      "viet_name": "thành phố Thanh Hóa"
+    },
+    {
+      "id": 3,
+      "china_name": "拜尚市",
+      "phien_am": "Bài Shàng shì",
+      "viet_name": "thị xã Bỉm Sơn"
+    },
+    {
+      "id": 4,
+      "china_name": "岑山市",
+      "phien_am": "Cén Shān shì",
+      "viet_name": "thị xã Sầm Sơn"
+    },
+    {
+      "id": 5,
+      "china_name": "伯尺县",
+      "phien_am": "Bó Chǐ xiàn",
+      "viet_name": "Bá Thước"
+    },
+    {
+      "id": 6,
+      "china_name": "锦水县",
+      "phien_am": "Jǐn Shuǐ xiàn",
+      "viet_name": "Cẩm Thủy"
+    },
+    {
+      "id": 7,
+      "china_name": "东山县",
+      "phien_am": "Dōng Shān xiàn",
+      "viet_name": "Đông Sơn"
+    },
+    {
+      "id": 8,
+      "china_name": "河忠县",
+      "phien_am": "Hé Zhōng xiàn",
+      "viet_name": "Hà Trung"
+    },
+    {
+      "id": 9,
+      "china_name": "厚禄县",
+      "phien_am": "Hòu Lù xiàn",
+      "viet_name": "Hậu Lộc"
+    },
+    {
+      "id": 10,
+      "china_name": "弘化县",
+      "phien_am": "Hóng Huà xiàn",
+      "viet_name": "Hoằng Hóa"
+    },
+    {
+      "id": 11,
+      "china_name": "郎正县",
+      "phien_am": "Láng Zhèng xiàn",
+      "viet_name": "Lang Chánh"
+    },
+    {
+      "id": 12,
+      "china_name": "孟叻县",
+      "phien_am": "Mèng Lè xiàn",
+      "viet_name": "Mường Lát"
+    },
+    {
+      "id": 13,
+      "china_name": "峨山县",
+      "phien_am": "É Shān xiàn",
+      "viet_name": "Nga Sơn"
+    },
+    {
+      "id": 14,
+      "china_name": "玉乐县",
+      "phien_am": "Yù Lè xiàn",
+      "viet_name": "Ngọc Lặc"
+    },
+    {
+      "id": 15,
+      "china_name": "如青县",
+      "phien_am": "Rú Qīng xiàn",
+      "viet_name": "Như Thanh"
+    },
+    {
+      "id": 16,
+      "china_name": "如春县",
+      "phien_am": "Rú Chūn xiàn",
+      "viet_name": "Như Xuân"
+    },
+    {
+      "id": 17,
+      "china_name": "农贡县",
+      "phien_am": "Nóng Gòng xiàn",
+      "viet_name": "Nông Cống"
+    },
+    {
+      "id": 18,
+      "china_name": "关化县",
+      "phien_am": "Guān Huà xiàn",
+      "viet_name": "Quan Hóa"
+    },
+    {
+      "id": 19,
+      "china_name": "关山县",
+      "phien_am": "Guān Shān xiàn",
+      "viet_name": "Quan Sơn"
+    },
+    {
+      "id": 20,
+      "china_name": "广昌县",
+      "phien_am": "Guǎng Chāng xiàn",
+      "viet_name": "Quảng Xương"
+    },
+    {
+      "id": 21,
+      "china_name": "石城县",
+      "phien_am": "Shí Chéng xiàn",
+      "viet_name": "Thạch Thành"
+    },
+    {
+      "id": 22,
+      "china_name": "绍化县",
+      "phien_am": "Shào Huà xiàn",
+      "viet_name": "Thiệu Hóa"
+    },
+    {
+      "id": 23,
+      "china_name": "寿春县",
+      "phien_am": "Shòu Chūn xiàn",
+      "viet_name": "Thọ Xuân"
+    },
+    {
+      "id": 24,
+      "china_name": "常春县",
+      "phien_am": "Cháng Chūn xiàn",
+      "viet_name": "Thường Xuân"
+    },
+    {
+      "id": 25,
+      "china_name": "靖嘉县",
+      "phien_am": "Jìng Jiā xiàn",
+      "viet_name": "Tĩnh Gia"
+    },
+    {
+      "id": 26,
+      "china_name": "交山县",
+      "phien_am": "Jiāo Shān xiàn",
+      "viet_name": "Triệu Sơn"
+    },
+    {
+      "id": 27,
+      "china_name": "永乐县",
+      "phien_am": "Yǒng Lè xiàn",
+      "viet_name": "Vĩnh Lộc"
+    },
+    {
+      "id": 28,
+      "china_name": "安定县",
+      "phien_am": "Ān Dìng xiàn",
+      "viet_name": "Yên Định"
+    },
+    {
+      "id": 1,
+      "china_name": "荣市",
+      "phien_am": "Róng shì",
+      "viet_name": "thành phố Vinh"
+    },
+    {
+      "id": 2,
+      "china_name": "炉门镇",
+      "phien_am": "Lú Mén zhèn",
+      "viet_name": "thị xã Cửa Lò"
+    },
+    {
+      "id": 3,
+      "china_name": "太和镇",
+      "phien_am": "tài hé zhèn",
+      "viet_name": "thị xã Thái Hoà"
+    },
+    {
+      "id": 4,
+      "china_name": "英山县",
+      "phien_am": "Yīng Shān xiàn",
+      "viet_name": "Anh Sơn"
+    },
+    {
+      "id": 5,
+      "china_name": "公强县",
+      "phien_am": "Gōng Qiáng xiàn",
+      "viet_name": "Con Cuông"
+    },
+    {
+      "id": 6,
+      "china_name": "演州县",
+      "phien_am": "Yǎn Zhōu xiàn",
+      "viet_name": "Diễn Châu"
+    },
+    {
+      "id": 7,
+      "china_name": "都良县",
+      "phien_am": "Dōu Liáng xiàn",
+      "viet_name": "Đô Lương"
+    },
+    {
+      "id": 8,
+      "china_name": "兴原县",
+      "phien_am": "Xìng Yuán xiàn",
+      "viet_name": "Hưng Nguyên"
+    },
+    {
+      "id": 9,
+      "china_name": "葵州县",
+      "phien_am": "Kuí Zhōu xiàn",
+      "viet_name": "Quỳ Châu"
+    },
+    {
+      "id": 10,
+      "china_name": "祺山县",
+      "phien_am": "Qí Shān xiàn",
+      "viet_name": "Kỳ Sơn"
+    },
+    {
+      "id": 11,
+      "china_name": "南坛县",
+      "phien_am": "Nán Tán xiàn",
+      "viet_name": "Nam Đàn"
+    },
+    {
+      "id": 12,
+      "china_name": "义鹿县",
+      "phien_am": "Yì Lù xiàn",
+      "viet_name": "Nghi Lộc"
+    },
+    {
+      "id": 13,
+      "china_name": "义坛县",
+      "phien_am": "Yì Tán xiàn",
+      "viet_name": "Nghĩa Đàn"
+    },
+    {
+      "id": 14,
+      "china_name": "桂风县",
+      "phien_am": "Guì Fēng xiàn",
+      "viet_name": "Quế Phong"
+    },
+    {
+      "id": 15,
+      "china_name": "葵合县",
+      "phien_am": "Kuí Hé xiàn",
+      "viet_name": "Quỳ Hợp"
+    },
+    {
+      "id": 16,
+      "china_name": "琼琉县",
+      "phien_am": "Qióng Liú xiàn",
+      "viet_name": "Quỳnh Lưu"
+    },
+    {
+      "id": 17,
+      "china_name": "新祺县",
+      "phien_am": "Xīn Qí xiàn",
+      "viet_name": "Tân Kỳ"
+    },
+    {
+      "id": 18,
+      "china_name": "清章县",
+      "phien_am": "Qīng Zhāng xiàn",
+      "viet_name": "Thanh Chương"
+    },
+    {
+      "id": 19,
+      "china_name": "相阳县",
+      "phien_am": "Xiāng Yáng xiàn",
+      "viet_name": "Tương Dương"
+    },
+    {
+      "id": 20,
+      "china_name": "安清县",
+      "phien_am": "Ān Qīng xiàn",
+      "viet_name": "Yên Thành"
+    },
+    {
+      "id": 1,
+      "china_name": "河静省",
+      "phien_am": "Hé Jìng shěng",
+      "viet_name": "Hà Tĩnh"
+    },
+    {
+      "id": 2,
+      "china_name": "河静市",
+      "phien_am": "Hé Jìng shì",
+      "viet_name": "thành phố Hà Tĩnh"
+    },
+    {
+      "id": 3,
+      "china_name": "鸿岭市",
+      "phien_am": "Hóng Lǐng shì",
+      "viet_name": "thị xã Hồng Lĩnh"
+    },
+    {
+      "id": 4,
+      "china_name": "锦川县",
+      "phien_am": "Jǐn Chuān xiàn",
+      "viet_name": "Cẩm Xuyên"
+    },
+    {
+      "id": 5,
+      "china_name": "干禄县",
+      "phien_am": "Gān Lù xiàn",
+      "viet_name": "Can Lộc"
+    },
+    {
+      "id": 6,
+      "china_name": "德寿县",
+      "phien_am": "Dé Shòu xiàn",
+      "viet_name": "Đức Thọ"
+    },
+    {
+      "id": 7,
+      "china_name": "香溪县",
+      "phien_am": "Xiāng Xī xiàn",
+      "viet_name": "Hương Khê"
+    },
+    {
+      "id": 8,
+      "china_name": "香山县",
+      "phien_am": "Xiāng Shān xiàn",
+      "viet_name": "Hương Sơn"
+    },
+    {
+      "id": 9,
+      "china_name": "奇英县",
+      "phien_am": "Qí Yīng xiàn",
+      "viet_name": "Kỳ Anh"
+    },
+    {
+      "id": 10,
+      "china_name": "仪春县",
+      "phien_am": "Yí Chūn xiàn",
+      "viet_name": "Nghi Xuân"
+    },
+    {
+      "id": 11,
+      "china_name": "石河县",
+      "phien_am": "Shí Hé xiàn",
+      "viet_name": "Thạch Hà"
+    },
+    {
+      "id": 12,
+      "china_name": "羽光县",
+      "phien_am": "Yǔ Guāng xiàn",
+      "viet_name": "Vũ Quang"
+    },
+    {
+      "id": 13,
+      "china_name": "禄河县",
+      "phien_am": "Lù Hé xiàn",
+      "viet_name": "Lộc Hà"
+    },
+    {
+      "id": 1,
+      "china_name": "广平省",
+      "phien_am": "Guǎng Píng shěng",
+      "viet_name": "Quảng Bình"
+    },
+    {
+      "id": 2,
+      "china_name": "同海市",
+      "phien_am": "Tóng Hǎi shì",
+      "viet_name": "thành phố Đồng Hới"
+    },
+    {
+      "id": 3,
+      "china_name": "布泽县",
+      "phien_am": "Bù Zé xiàn",
+      "viet_name": "Bố Trạch"
+    },
+    {
+      "id": 4,
+      "china_name": "丽水县",
+      "phien_am": "Lì Shuǐ xiàn",
+      "viet_name": "Lệ Thủy"
+    },
+    {
+      "id": 5,
+      "china_name": "明化县",
+      "phien_am": "Míng Huà xiàn",
+      "viet_name": "Minh Hóa"
+    },
+    {
+      "id": 6,
+      "china_name": "广泽县",
+      "phien_am": "Guǎng Zé xiàn",
+      "viet_name": "Quảng Trạch"
+    },
+    {
+      "id": 7,
+      "china_name": "广宁县",
+      "phien_am": "Guǎng Níng xiàn",
+      "viet_name": "Quảng Ninh"
+    },
+    {
+      "id": 8,
+      "china_name": "宣化县",
+      "phien_am": "Xuān Huà xiàn",
+      "viet_name": "Tuyên Hóa"
+    },
+    {
+      "id": 1,
+      "china_name": "广治省",
+      "phien_am": "Guǎng Zhì shěng",
+      "viet_name": "Quảng Trị"
+    },
+    {
+      "id": 2,
+      "china_name": "东河市",
+      "phien_am": "Dōng Hé shì",
+      "viet_name": "thị xã Đông Hà"
+    },
+    {
+      "id": 3,
+      "china_name": "广治市",
+      "phien_am": "Guǎng Zhì shì",
+      "viet_name": "thị xã Quảng Trị"
+    },
+    {
+      "id": 4,
+      "china_name": "甘露县",
+      "phien_am": "Gān Lù xiàn",
+      "viet_name": "Cam Lộ"
+    },
+    {
+      "id": 5,
+      "china_name": "昏果县",
+      "phien_am": "Hūn Guǒ xiàn",
+      "viet_name": "Cồn Cỏ"
+    },
+    {
+      "id": 6,
+      "china_name": "大棱县",
+      "phien_am": "Dà Léng xiàn",
+      "viet_name": "Đa Krông"
+    },
+    {
+      "id": 7,
+      "china_name": "教林县",
+      "phien_am": "Jiào Lín xiàn",
+      "viet_name": "Gio Linh"
+    },
+    {
+      "id": 8,
+      "china_name": "海陵县",
+      "phien_am": "Hǎi Líng xiàn",
+      "viet_name": "Hải Lăng"
+    },
+    {
+      "id": 9,
+      "china_name": "向化县",
+      "phien_am": "Xiàng Huà xiàn",
+      "viet_name": "Hướng Hóa"
+    },
+    {
+      "id": 10,
+      "china_name": "召峰县",
+      "phien_am": "Zhāo Fēng xiàn",
+      "viet_name": "Triệu Phong"
+    },
+    {
+      "id": 11,
+      "china_name": "永灵县",
+      "phien_am": "Yǒng Líng xiàn",
+      "viet_name": "Vĩnh Linh"
+    },
+    {
+      "id": 1,
+      "china_name": "岘港市",
+      "phien_am": "Xiàn Gǎng shì",
+      "viet_name": "TP Đà Nẵng"
+    },
+    {
+      "id": 2,
+      "china_name": "海州郡",
+      "phien_am": "Hǎi Zhōu jùn",
+      "viet_name": "Hải Châu"
+    },
+    {
+      "id": 3,
+      "china_name": "清溪郡",
+      "phien_am": "Qīng Xī jùn",
+      "viet_name": "Thanh Khê"
+    },
+    {
+      "id": 4,
+      "china_name": "山茶郡",
+      "phien_am": "Shān Chá jùn",
+      "viet_name": "Sơn Trà"
+    },
+    {
+      "id": 5,
+      "china_name": "五行山郡",
+      "phien_am": "Wǔ Xíng Shān jùn",
+      "viet_name": "Ngũ Hành Sơn"
+    },
+    {
+      "id": 6,
+      "china_name": "莲沼郡",
+      "phien_am": "Lián Zhǎo jùn",
+      "viet_name": "Liên Chiểu"
+    },
+    {
+      "id": 7,
+      "china_name": "锦丽郡",
+      "phien_am": "Jǐn Lì jùn",
+      "viet_name": "Cẩm Lệ"
+    },
+    {
+      "id": 8,
+      "china_name": "和荣县",
+      "phien_am": "Hé Róng xiàn",
+      "viet_name": "Hòa Vang"
+    },
+    {
+      "id": 9,
+      "china_name": "黄沙岛县",
+      "phien_am": "Huáng Shā Dǎo xiàn",
+      "viet_name": "huyện đảo Hoàng Sa"
+    },
+    {
+      "id": 1,
+      "china_name": "顺化省",
+      "phien_am": "Shùn Huà shěng",
+      "viet_name": "Thừa Thiên Huế"
+    },
+    {
+      "id": 2,
+      "china_name": "顺化市",
+      "phien_am": "Shùn Huà shì",
+      "viet_name": "thành phố Huế"
+    },
+    {
+      "id": 3,
+      "china_name": "阿雷县",
+      "phien_am": "Ā Léi xiàn",
+      "viet_name": "A Lưới"
+    },
+    {
+      "id": 4,
+      "china_name": "香水县",
+      "phien_am": "Xiāng Shuǐ xiàn",
+      "viet_name": "Hương Thủy"
+    },
+    {
+      "id": 5,
+      "china_name": "香茶县",
+      "phien_am": "Xiāng Chá xiàn",
+      "viet_name": "Hương Trà"
+    },
+    {
+      "id": 6,
+      "china_name": "南东县",
+      "phien_am": "Nán Dōng xiàn",
+      "viet_name": "Nam Đông"
+    },
+    {
+      "id": 7,
+      "china_name": "丰田县",
+      "phien_am": "Fēng Tián xiàn",
+      "viet_name": "Phong Điền"
+    },
+    {
+      "id": 8,
+      "china_name": "富禄县",
+      "phien_am": "Fù Lù xiàn",
+      "viet_name": "Phú Lộc"
+    },
+    {
+      "id": 9,
+      "china_name": "富荣县",
+      "phien_am": "Fù Róng xiàn",
+      "viet_name": "Phú Vang"
+    },
+    {
+      "id": 10,
+      "china_name": "广田县",
+      "phien_am": "Guǎng Tián xiàn",
+      "viet_name": "Quảng Điền"
+    },
+    {
+      "id": 1,
+      "china_name": "广南省",
+      "phien_am": "Guǎng Nán shěng",
+      "viet_name": "Tỉnh Quảng Nam"
+    },
+    {
+      "id": 2,
+      "china_name": "三歧市",
+      "phien_am": "Sān Qí shì",
+      "viet_name": "thành phố Tam Kỳ"
+    },
+    {
+      "id": 3,
+      "china_name": "会安市",
+      "phien_am": "Huì Ān shì",
+      "viet_name": "thị xã Hội An"
+    },
+    {
+      "id": 4,
+      "china_name": "维川县",
+      "phien_am": "Wéi Chuān xiàn",
+      "viet_name": "Duy Xuyên"
+    },
+    {
+      "id": 5,
+      "china_name": "大禄县",
+      "phien_am": "Dà Lù xiàn",
+      "viet_name": "Đại Lộc"
+    },
+    {
+      "id": 6,
+      "china_name": "奠盘县",
+      "phien_am": "Diàn Pán xiàn",
+      "viet_name": "Điện Bàn"
+    },
+    {
+      "id": 7,
+      "china_name": "东江县",
+      "phien_am": "Dōng Jiāng xiàn",
+      "viet_name": "Đông Giang"
+    },
+    {
+      "id": 8,
+      "china_name": "南江县",
+      "phien_am": "Nán Jiāng xiàn",
+      "viet_name": "Nam Giang"
+    },
+    {
+      "id": 9,
+      "china_name": "西江县",
+      "phien_am": "Xī Jiāng xiàn",
+      "viet_name": "Tây Giang"
+    },
+    {
+      "id": 10,
+      "china_name": "桂山县",
+      "phien_am": "Guì Shān xiàn",
+      "viet_name": "Quế Sơn"
+    },
+    {
+      "id": 11,
+      "china_name": "协德县",
+      "phien_am": "Xié Dé xiàn",
+      "viet_name": "Hiệp Đức"
+    },
+    {
+      "id": 12,
+      "china_name": "成山县",
+      "phien_am": "Chéng Shān xiàn",
+      "viet_name": "Núi Thành"
+    },
+    {
+      "id": 13,
+      "china_name": "南茶美县",
+      "phien_am": "Nán Chá Měi xiàn",
+      "viet_name": "Nam Trà My"
+    },
+    {
+      "id": 14,
+      "china_name": "北茶美县",
+      "phien_am": "Běi Chá Měi xiàn",
+      "viet_name": "Bắc Trà My"
+    },
+    {
+      "id": 15,
+      "china_name": "富宁县",
+      "phien_am": "Fù Níng xiàn",
+      "viet_name": "Phú Ninh"
+    },
+    {
+      "id": 16,
+      "china_name": "福山县",
+      "phien_am": "Fú Shān xiàn",
+      "viet_name": "Phước Sơn"
+    },
+    {
+      "id": 17,
+      "china_name": "升平县",
+      "phien_am": "Shēng Píng xiàn",
+      "viet_name": "Thăng Bình"
+    },
+    {
+      "id": 18,
+      "china_name": "仙福县",
+      "phien_am": "Xiān Fú xiàn",
+      "viet_name": "Tiên Phước"
+    },
+    {
+      "id": 19,
+      "china_name": "农山县",
+      "phien_am": "Nóng shān xiàn",
+      "viet_name": "Nông Sơn"
+    },
+    {
+      "id": 1,
+      "china_name": "广义省",
+      "phien_am": "Guǎng Yì shěng",
+      "viet_name": "Quảng Ngãi"
+    },
+    {
+      "id": 2,
+      "china_name": "广义市",
+      "phien_am": "Guǎng Yì shì",
+      "viet_name": "thành phố Quảng Ngãi"
+    },
+    {
+      "id": 3,
+      "china_name": "巴丝县",
+      "phien_am": "Bā Sī xiàn",
+      "viet_name": "Ba Tơ"
+    },
+    {
+      "id": 4,
+      "china_name": "平山县",
+      "phien_am": "Píng Shān xiàn",
+      "viet_name": "Bình Sơn"
+    },
+    {
+      "id": 5,
+      "china_name": "德普县",
+      "phien_am": "Dé Pǔ xiàn",
+      "viet_name": "Đức Phổ"
+    },
+    {
+      "id": 6,
+      "china_name": "明隆县",
+      "phien_am": "Míng Lóng xiàn",
+      "viet_name": "Minh Long"
+    },
+    {
+      "id": 7,
+      "china_name": "慕德县",
+      "phien_am": "Mù Dé xiàn",
+      "viet_name": "Mộ Đức"
+    },
+    {
+      "id": 8,
+      "china_name": "义行县",
+      "phien_am": "Yì Xíng xiàn",
+      "viet_name": "Nghĩa Hành"
+    },
+    {
+      "id": 9,
+      "china_name": "山河县",
+      "phien_am": "Shān Hé xiàn",
+      "viet_name": "Sơn Hà"
+    },
+    {
+      "id": 10,
+      "china_name": "山西县",
+      "phien_am": "Shān Xī xiàn",
+      "viet_name": "Sơn Tây"
+    },
+    {
+      "id": 11,
+      "china_name": "山静县",
+      "phien_am": "Shān Jìng xiàn",
+      "viet_name": "Sơn Tịnh"
+    },
+    {
+      "id": 12,
+      "china_name": "西茶县",
+      "phien_am": "Xī Chá xiàn",
+      "viet_name": "Tây Trà"
+    },
+    {
+      "id": 13,
+      "china_name": "茶蓬县",
+      "phien_am": "Chá Péng xiàn",
+      "viet_name": "Trà Bồng"
+    },
+    {
+      "id": 14,
+      "china_name": "思义县",
+      "phien_am": "Sī Yì xiàn",
+      "viet_name": "Tư Nghĩa"
+    },
+    {
+      "id": 15,
+      "china_name": "李山岛县",
+      "phien_am": "Lǐ Shān Dǎo xiàn",
+      "viet_name": "huyện đảo Lý Sơn"
+    },
+    {
+      "id": 1,
+      "china_name": "昆嵩省",
+      "phien_am": "Kūn Sōng shěng",
+      "viet_name": "Kon Tum"
+    },
+    {
+      "id": 2,
+      "china_name": "昆嵩镇",
+      "phien_am": "Kūn Sōng zhèn",
+      "viet_name": "thị xã Kon Tum"
+    },
+    {
+      "id": 3,
+      "china_name": "达盖来县",
+      "phien_am": "Dá Gài Lái xiàn",
+      "viet_name": "Đắk Glei"
+    },
+    {
+      "id": 4,
+      "china_name": "达河县",
+      "phien_am": "Dá Hé xiàn",
+      "viet_name": "Đắk Hà"
+    },
+    {
+      "id": 5,
+      "china_name": "达苏县",
+      "phien_am": "Dá Sū xiàn",
+      "viet_name": "Đắk Tô"
+    },
+    {
+      "id": 6,
+      "china_name": "公伯陇县",
+      "phien_am": "Gōng Bó Lǒng xiàn",
+      "viet_name": "Kon Plông"
+    },
+    {
+      "id": 7,
+      "china_name": "昆礼县",
+      "phien_am": "Kūn Lǐ xiàn",
+      "viet_name": "Kon Rẫy"
+    },
+    {
+      "id": 8,
+      "china_name": "玉茴县",
+      "phien_am": "Yù Huí xiàn",
+      "viet_name": "Ngọc Hồi"
+    },
+    {
+      "id": 9,
+      "china_name": "沙柴县",
+      "phien_am": "Shā Chái xiàn",
+      "viet_name": "Sa Thầy"
+    },
+    {
+      "id": 10,
+      "china_name": "须麻容县",
+      "phien_am": "Xū Má Róng xiàn",
+      "viet_name": "Tu Mơ Rông"
+    },
+    {
+      "id": 1,
+      "china_name": "平定省",
+      "phien_am": "Píng Dìng shěng",
+      "viet_name": "Bình Định"
+    },
+    {
+      "id": 2,
+      "china_name": "归仁市",
+      "phien_am": "Guī Rén shì",
+      "viet_name": "thành phố Qui Nhơn"
+    },
+    {
+      "id": 3,
+      "china_name": "安老县",
+      "phien_am": "Ān Lǎo xiàn",
+      "viet_name": "An Lão"
+    },
+    {
+      "id": 4,
+      "china_name": "安仁县",
+      "phien_am": "Ān Rén xiàn",
+      "viet_name": "An Nhơn"
+    },
+    {
+      "id": 5,
+      "china_name": "怀恩县",
+      "phien_am": "Huái Ēn xiàn",
+      "viet_name": "Hoài Ân"
+    },
+    {
+      "id": 6,
+      "china_name": "怀仁县",
+      "phien_am": "Huái Rén xiàn",
+      "viet_name": "Hoài Nhơn"
+    },
+    {
+      "id": 7,
+      "china_name": "富吉县",
+      "phien_am": "Fù Jí xiàn",
+      "viet_name": "Phù Cát"
+    },
+    {
+      "id": 8,
+      "china_name": "富美县",
+      "phien_am": "Fù Měi xiàn",
+      "viet_name": "Phù Mỹ"
+    },
+    {
+      "id": 9,
+      "china_name": "绥福县",
+      "phien_am": "Suī Fú xiàn",
+      "viet_name": "Tuy Phước"
+    },
+    {
+      "id": 10,
+      "china_name": "西山县",
+      "phien_am": "Xī Shān xiàn",
+      "viet_name": "Tây Sơn"
+    },
+    {
+      "id": 11,
+      "china_name": "云耕县",
+      "phien_am": "Yún Gēng xiàn",
+      "viet_name": "Vân Canh"
+    },
+    {
+      "id": 12,
+      "china_name": "永盛县",
+      "phien_am": "Yǒng Shèng xiàn",
+      "viet_name": "Vĩnh Thạnh"
+    },
+    {
+      "id": 1,
+      "china_name": "嘉莱省",
+      "phien_am": "Jiā Lái shěng",
+      "viet_name": "Gia Lai"
+    },
+    {
+      "id": 2,
+      "china_name": "波来古市",
+      "phien_am": "Bō Lái Gǔ shì",
+      "viet_name": "thành phố Pleiku"
+    },
+    {
+      "id": 3,
+      "china_name": "安溪市",
+      "phien_am": "Ān Xī shì",
+      "viet_name": "thị xã An Khê"
+    },
+    {
+      "id": 4,
+      "china_name": "阿云巴市",
+      "phien_am": "Ā Yún Bā shì",
+      "viet_name": "thị xã Ayun Pa"
+    },
+    {
+      "id": 5,
+      "china_name": "诸巴县",
+      "phien_am": "Zhū Bā xiàn",
+      "viet_name": "Chư Păh"
+    },
+    {
+      "id": 6,
+      "china_name": "诸博容县",
+      "phien_am": "Zhū Bó Róng xiàn",
+      "viet_name": "Chư Prông"
+    },
+    {
+      "id": 7,
+      "china_name": "诸色县",
+      "phien_am": "Zhū Sè xiàn",
+      "viet_name": "Chư Sê"
+    },
+    {
+      "id": 8,
+      "china_name": "达德瓦县",
+      "phien_am": "Dá Dé Wǎ xiàn",
+      "viet_name": "Đắk Đoa"
+    },
+    {
+      "id": 9,
+      "china_name": "达婆县",
+      "phien_am": "Dá Pó xiàn",
+      "viet_name": "Đắk Pơ"
+    },
+    {
+      "id": 10,
+      "china_name": "德基县",
+      "phien_am": "Dé Jī xiàn",
+      "viet_name": "Đức Cơ"
+    },
+    {
+      "id": 11,
+      "china_name": "亚格来县",
+      "phien_am": "Yà Gé Lái xiàn",
+      "viet_name": "Ia Grai"
+    },
+    {
+      "id": 12,
+      "china_name": "亚巴县",
+      "phien_am": "Yà Bā xiàn",
+      "viet_name": "Ia Pa"
+    },
+    {
+      "id": 13,
+      "china_name": "克邦县",
+      "phien_am": "Kè Bāng xiàn",
+      "viet_name": "KBang"
+    },
+    {
+      "id": 14,
+      "china_name": "公则若县",
+      "phien_am": "Gōng Zé Ruò xiàn",
+      "viet_name": "Kông Chro"
+    },
+    {
+      "id": 15,
+      "china_name": "克容巴县",
+      "phien_am": "Kè Róng Bā xiàn",
+      "viet_name": "Krông Pa"
+    },
+    {
+      "id": 16,
+      "china_name": "芒杨县",
+      "phien_am": "Máng Yáng xiàn",
+      "viet_name": "Mang Yang"
+    },
+    {
+      "id": 17,
+      "china_name": "富善县",
+      "phien_am": "Fù Shàn xiàn",
+      "viet_name": "Phú Thiện"
+    },
+    {
+      "id": 1,
+      "china_name": "富安省",
+      "phien_am": "Fù Ān shěng",
+      "viet_name": "Phú Yên"
+    },
+    {
+      "id": 2,
+      "china_name": "绥和市",
+      "phien_am": "Suī Hé shì",
+      "viet_name": "Thành phố Tuy Hòa"
+    },
+    {
+      "id": 3,
+      "china_name": "同春县",
+      "phien_am": "Tóng Chūn xiàn",
+      "viet_name": "Đồng Xuân"
+    },
+    {
+      "id": 4,
+      "china_name": "桥河县",
+      "phien_am": "Qiáo Hé xiàn",
+      "viet_name": "Sông Cầu"
+    },
+    {
+      "id": 5,
+      "china_name": "绥安县",
+      "phien_am": "Suī Ān xiàn",
+      "viet_name": "Tuy An"
+    },
+    {
+      "id": 6,
+      "china_name": "山和县",
+      "phien_am": "Shān Hé xiàn",
+      "viet_name": "Sơn Hòa"
+    },
+    {
+      "id": 7,
+      "china_name": "富和县",
+      "phien_am": "Fù Hé xiàn",
+      "viet_name": "Phú Hòa"
+    },
+    {
+      "id": 8,
+      "china_name": "东和县",
+      "phien_am": "Dōng Hé xiàn",
+      "viet_name": "Đông Hoà"
+    },
+    {
+      "id": 9,
+      "china_name": "西和县",
+      "phien_am": "Suī Hé xiàn",
+      "viet_name": "Tây Hoà"
+    },
+    {
+      "id": 10,
+      "china_name": "馨河县",
+      "phien_am": "Xīng Hé xiàn",
+      "viet_name": "Sông Hinh"
+    },
+    {
+      "id": 1,
+      "china_name": "多乐省",
+      "phien_am": "Duō Lè shěng",
+      "viet_name": "Đắc Lắc"
+    },
+    {
+      "id": 2,
+      "china_name": "邦美蜀市",
+      "phien_am": "Bāng Měi Shǔ shì",
+      "viet_name": "thành phố Buôn Ma Thuột"
+    },
+    {
+      "id": 3,
+      "china_name": "邦湖市社",
+      "phien_am": "Bāng hú shì shè",
+      "viet_name": "thị xã Buôn Hồ"
+    },
+    {
+      "id": 4,
+      "china_name": "克容布县",
+      "phien_am": "Kè Róng Bù xiàn",
+      "viet_name": "Krông Buk"
+    },
+    {
+      "id": 5,
+      "china_name": "克容巴县",
+      "phien_am": "Kè Róng Bā xiàn",
+      "viet_name": "Krông Pak"
+    },
+    {
+      "id": 6,
+      "china_name": "拉克县",
+      "phien_am": "Lā Kè xiàn",
+      "viet_name": "Lắk"
+    },
+    {
+      "id": 7,
+      "china_name": "亚苏县",
+      "phien_am": "Yà Sū xiàn",
+      "viet_name": "Ea Súp"
+    },
+    {
+      "id": 8,
+      "china_name": "穆德拉县",
+      "phien_am": "Mù Dé Lā xiàn",
+      "viet_name": "M’Drăk"
+    },
+    {
+      "id": 9,
+      "china_name": "克容亚那县",
+      "phien_am": "Kè Róng Yà Nà xiàn",
+      "viet_name": "Krông Ana"
+    },
+    {
+      "id": 10,
+      "china_name": "克容邦县",
+      "phien_am": "Kè Róng Bāng xiàn",
+      "viet_name": "Krông Bông"
+    },
+    {
+      "id": 11,
+      "china_name": "亚赫辽县",
+      "phien_am": "Yà Hè Liáo xiàn",
+      "viet_name": "Ea H’leo"
+    },
+    {
+      "id": 12,
+      "china_name": "格穆加县",
+      "phien_am": "Gé Mù Jiā xiàn",
+      "viet_name": "Cư M’gar"
+    },
+    {
+      "id": 13,
+      "china_name": "孔港县",
+      "phien_am": "Kǒng Gǎng xiàn",
+      "viet_name": "Krông Năng"
+    },
+    {
+      "id": 14,
+      "china_name": "班敦县",
+      "phien_am": "Bān Dūn xiàn",
+      "viet_name": "Buôn Đôn"
+    },
+    {
+      "id": 15,
+      "china_name": "亚卡县",
+      "phien_am": "Yà Kǎ xiàn",
+      "viet_name": "Ea Kar"
+    },
+    {
+      "id": 16,
+      "china_name": "居昆县",
+      "phien_am": "Jū Kūn xiàn",
+      "viet_name": "Cư Kuin"
+    },
+    {
+      "id": 1,
+      "china_name": "得农省",
+      "phien_am": "De Nóng shěng",
+      "viet_name": "Đắc Nông"
+    },
+    {
+      "id": 2,
+      "china_name": "嘉义市",
+      "phien_am": "Jiā Yì shì",
+      "viet_name": "thị xã Gia Nghĩa"
+    },
+    {
+      "id": 3,
+      "china_name": "格桔县",
+      "phien_am": "Gé Jú xiàn",
+      "viet_name": "Cư Jút"
+    },
+    {
+      "id": 4,
+      "china_name": "多格朗县",
+      "phien_am": "Duō Gé Lǎng xiàn",
+      "viet_name": "Đăk Glong"
+    },
+    {
+      "id": 5,
+      "china_name": "达明县",
+      "phien_am": "Dá Míng xiàn",
+      "viet_name": "Đăk Mil"
+    },
+    {
+      "id": 6,
+      "china_name": "达耶勒县",
+      "phien_am": "Dá Yē Lè xiàn",
+      "viet_name": "Đăk R’lâp"
+    },
+    {
+      "id": 7,
+      "china_name": "多双县",
+      "phien_am": "Duō Shuāng xiàn",
+      "viet_name": "Đăk Song"
+    },
+    {
+      "id": 8,
+      "china_name": "孔驽县",
+      "phien_am": "Kǒng Nú xiàn",
+      "viet_name": "Krông Nô"
+    },
+    {
+      "id": 9,
+      "china_name": "绥德县",
+      "phien_am": "Suī Dé xiàn",
+      "viet_name": "Tuy Đức"
+    },
+    {
+      "id": 1,
+      "china_name": "庆和省",
+      "phien_am": "Qìng Hé shěng",
+      "viet_name": "Khánh Hòa"
+    },
+    {
+      "id": 2,
+      "china_name": "芽庄市",
+      "phien_am": "Yá Zhuāng shì",
+      "viet_name": "thành phố Nha Trang"
+    },
+    {
+      "id": 3,
+      "china_name": "金兰市",
+      "phien_am": "Jīn Lán shì",
+      "viet_name": "thị xã Cam Ranh"
+    },
+    {
+      "id": 4,
+      "china_name": "甘林县",
+      "phien_am": "Gān Lín xiàn",
+      "viet_name": "Cam Lâm"
+    },
+    {
+      "id": 5,
+      "china_name": "万宁县",
+      "phien_am": "Wàn Zhù xiàn",
+      "viet_name": "Vạn Ninh"
+    },
+    {
+      "id": 6,
+      "china_name": "宁和县",
+      "phien_am": "Zhù Hé xiàn",
+      "viet_name": "Ninh Hòa"
+    },
+    {
+      "id": 7,
+      "china_name": "筵庆县",
+      "phien_am": "Yán Qìng xiàn",
+      "viet_name": "Diên Khánh"
+    },
+    {
+      "id": 8,
+      "china_name": "庆永县",
+      "phien_am": "Qìng Yǒng xiàn",
+      "viet_name": "Khánh Vĩnh"
+    },
+    {
+      "id": 9,
+      "china_name": "庆山县",
+      "phien_am": "Qìng Shān xiàn",
+      "viet_name": "Khánh Sơn"
+    },
+    {
+      "id": 10,
+      "china_name": "长沙岛县",
+      "phien_am": "Cháng Shā dǎo xiàn",
+      "viet_name": "huyện đảo Trường Sa"
+    },
+    {
+      "id": 1,
+      "china_name": "宁顺省",
+      "phien_am": "Níng Shùn shěng",
+      "viet_name": "Ninh Thuận"
+    },
+    {
+      "id": 2,
+      "china_name": "藩朗 塔占市",
+      "phien_am": "Fán Lǎng Tǎ Zhàn shì",
+      "viet_name": "thành phố Phan Rang Tháp Chàm"
+    },
+    {
+      "id": 3,
+      "china_name": "博爱县",
+      "phien_am": "Bó Ài xiàn",
+      "viet_name": "Bác Ái"
+    },
+    {
+      "id": 4,
+      "china_name": "宁海县",
+      "phien_am": "Níng Hǎi xiàn",
+      "viet_name": "Ninh Hải"
+    },
+    {
+      "id": 5,
+      "china_name": "宁福县",
+      "phien_am": "Níng Fú xiàn",
+      "viet_name": "Ninh Phước"
+    },
+    {
+      "id": 6,
+      "china_name": "宁山县",
+      "phien_am": "Níng Shān xiàn",
+      "viet_name": "Ninh Sơn"
+    },
+    {
+      "id": 7,
+      "china_name": "顺北县",
+      "phien_am": "Shùn Běi xiàn",
+      "viet_name": "Thuận Bắc"
+    },
+    {
+      "id": 8,
+      "china_name": "顺南县",
+      "phien_am": "Shùn Nán xiàn",
+      "viet_name": "Thuận Nam"
+    },
+    {
+      "id": 1,
+      "china_name": "林同省",
+      "phien_am": "Lín Tóng shěng",
+      "viet_name": "Lâm Đồng"
+    },
+    {
+      "id": 2,
+      "china_name": "大叻市",
+      "phien_am": "Dà Lè shì",
+      "viet_name": "thành phố Đà Lạt"
+    },
+    {
+      "id": 3,
+      "china_name": "保禄市",
+      "phien_am": "Bǎo Lù shì",
+      "viet_name": "thị xã Bảo Lộc"
+    },
+    {
+      "id": 4,
+      "china_name": "乐阳县",
+      "phien_am": "Lè Yáng xiàn",
+      "viet_name": "Lạc Dương"
+    },
+    {
+      "id": 5,
+      "china_name": "单阳县",
+      "phien_am": "Dān Yáng xiàn",
+      "viet_name": "Đơn Dương"
+    },
+    {
+      "id": 6,
+      "china_name": "德重县",
+      "phien_am": "Dé Zhòng xiàn",
+      "viet_name": "Đức Trọng"
+    },
+    {
+      "id": 7,
+      "china_name": "林河县",
+      "phien_am": "Lín Hé xiàn",
+      "viet_name": "Lâm Hà"
+    },
+    {
+      "id": 8,
+      "china_name": "丹容县",
+      "phien_am": "Dān róng xiàn",
+      "viet_name": "Đam Rông"
+    },
+    {
+      "id": 9,
+      "china_name": "保林省",
+      "phien_am": "Bǎo Lín shěng",
+      "viet_name": "Bảo Lâm"
+    },
+    {
+      "id": 10,
+      "china_name": "夷灵县",
+      "phien_am": "Yí Líng xiàn",
+      "viet_name": "Di Linh"
+    },
+    {
+      "id": 11,
+      "china_name": "多怀县",
+      "phien_am": "Duō Huái xiàn",
+      "viet_name": "Đạ Huoai"
+    },
+    {
+      "id": 12,
+      "china_name": "多蝶县",
+      "phien_am": "Duō Dié xiàn",
+      "viet_name": "Đạ Tẻh"
+    },
+    {
+      "id": 13,
+      "china_name": "吉仙县",
+      "phien_am": "Jí Xiān xiàn",
+      "viet_name": "Cát Tiên"
+    },
+    {
+      "id": 1,
+      "china_name": "平福省",
+      "phien_am": "Píng Fú shěng",
+      "viet_name": "Bình Phước"
+    },
+    {
+      "id": 2,
+      "china_name": "同帅市",
+      "phien_am": "Tóng Shuài shì",
+      "viet_name": "thị xã Đồng Xoài"
+    },
+    {
+      "id": 3,
+      "china_name": "平隆县",
+      "phien_am": "Píng Lóng xiàn",
+      "viet_name": "Bình Long"
+    },
+    {
+      "id": 4,
+      "china_name": "蒲登县",
+      "phien_am": "Pú Dēng xiàn",
+      "viet_name": "Bù Đăng"
+    },
+    {
+      "id": 5,
+      "china_name": "蒲沓县",
+      "phien_am": "Pú Tà xiàn",
+      "viet_name": "Bù Đốp"
+    },
+    {
+      "id": 6,
+      "china_name": "蒲嘉肥县",
+      "phien_am": "Pú jiā féi xiàn",
+      "viet_name": "Bù Gia Mập"
+    },
+    {
+      "id": 7,
+      "china_name": "鸿馆县",
+      "phien_am": "Hóng guǎn xiàn",
+      "viet_name": "Hớn Quản"
+    },
+    {
+      "id": 8,
+      "china_name": "真城县",
+      "phien_am": "Zhēn Chéng xiàn",
+      "viet_name": "Chơn Thành"
+    },
+    {
+      "id": 9,
+      "china_name": "同富县",
+      "phien_am": "Tóng Fù xiàn",
+      "viet_name": "Đồng Phú"
+    },
+    {
+      "id": 10,
+      "china_name": "禄宁县",
+      "phien_am": "Lù Níng xiàn",
+      "viet_name": "Lộc Ninh"
+    },
+    {
+      "id": 11,
+      "china_name": "福隆县",
+      "phien_am": "Fú Lóng xiàn",
+      "viet_name": "Phước Long"
+    },
+    {
+      "id": 1,
+      "china_name": "平顺省",
+      "phien_am": "Píng Shùn shěng",
+      "viet_name": "Bình Thuận"
+    },
+    {
+      "id": 2,
+      "china_name": "潘切市",
+      "phien_am": "Pān Qiē shì",
+      "viet_name": "thành phố Phan Thiết"
+    },
+    {
+      "id": 3,
+      "china_name": "罗迤市",
+      "phien_am": "Luó Yǐ shì",
+      "viet_name": "thị xã La Gi"
+    },
+    {
+      "id": 4,
+      "china_name": "绥丰县",
+      "phien_am": "Suī Fēng xiàn",
+      "viet_name": "Tuy Phong"
+    },
+    {
+      "id": 5,
+      "china_name": "北平县",
+      "phien_am": "Běi Píng xiàn",
+      "viet_name": "Bắc Bình"
+    },
+    {
+      "id": 6,
+      "china_name": "咸顺北县",
+      "phien_am": "Xián Shùn Běi xiàn",
+      "viet_name": "Hàm Thuận Bắc"
+    },
+    {
+      "id": 7,
+      "china_name": "咸顺南县",
+      "phien_am": "Xián Shùn Nán xiàn",
+      "viet_name": "Hàm Thuận Nam"
+    },
+    {
+      "id": 8,
+      "china_name": "性灵县",
+      "phien_am": "Xìng Líng xiàn",
+      "viet_name": "Tánh Linh"
+    },
+    {
+      "id": 9,
+      "china_name": "咸津县",
+      "phien_am": "Xián Jīn xiàn",
+      "viet_name": "Hàm Tân"
+    },
+    {
+      "id": 10,
+      "china_name": "德灵县",
+      "phien_am": "Dé Líng xiàn",
+      "viet_name": "Đức Linh"
+    },
+    {
+      "id": 11,
+      "china_name": "富贵岛县",
+      "phien_am": "Fù Guì dǎo xiàn",
+      "viet_name": "huyện đảo Phú Quý"
+    },
+    {
+      "id": 1,
+      "china_name": "同奈省",
+      "phien_am": "Tóng Nài shěng",
+      "viet_name": "Đồng Nai"
+    },
+    {
+      "id": 2,
+      "china_name": "边和市",
+      "phien_am": "Biān Hé shì",
+      "viet_name": "thành phố Biên Hòa"
+    },
+    {
+      "id": 3,
+      "china_name": "隆庆市",
+      "phien_am": "Lóng Qìng shì",
+      "viet_name": "thị xã Long Khánh"
+    },
+    {
+      "id": 4,
+      "china_name": "定馆县",
+      "phien_am": "Dìng Guǎn xiàn",
+      "viet_name": "Định Quán"
+    },
+    {
+      "id": 5,
+      "china_name": "隆城县",
+      "phien_am": "Lóng Chéng xiàn",
+      "viet_name": "Long Thành"
+    },
+    {
+      "id": 6,
+      "china_name": "仁泽县",
+      "phien_am": "Rén Zé xiàn",
+      "viet_name": "Nhơn Trạch"
+    },
+    {
+      "id": 7,
+      "china_name": "新富县",
+      "phien_am": "Xīn Fù xiàn",
+      "viet_name": "Tân Phú"
+    },
+    {
+      "id": 8,
+      "china_name": "统一县",
+      "phien_am": "Tǒng Yī xiàn",
+      "viet_name": "Thống Nhất"
+    },
+    {
+      "id": 9,
+      "china_name": "永久县",
+      "phien_am": "Yǒng Jiǔ xiàn",
+      "viet_name": "Vĩnh Cửu"
+    },
+    {
+      "id": 10,
+      "china_name": "春禄县",
+      "phien_am": "Chūn Lù xiàn",
+      "viet_name": "Xuân Lộc"
+    },
+    {
+      "id": 11,
+      "china_name": "锦美县",
+      "phien_am": "Jǐn Měi xiàn",
+      "viet_name": "Cẩm Mỹ"
+    },
+    {
+      "id": 12,
+      "china_name": "庄崩县",
+      "phien_am": "Zhuāng Bēng xiàn",
+      "viet_name": "Trảng Bom"
+    },
+    {
+      "id": 1,
+      "china_name": "西宁省",
+      "phien_am": "Xī Níng shěng",
+      "viet_name": "Tây Ninh"
+    },
+    {
+      "id": 2,
+      "china_name": "西宁市",
+      "phien_am": "Xī Níng shì",
+      "viet_name": "thị xã Tây Ninh"
+    },
+    {
+      "id": 3,
+      "china_name": "新边县",
+      "phien_am": "Xīn Biān xiàn",
+      "viet_name": "Tân Biên"
+    },
+    {
+      "id": 4,
+      "china_name": "新州县",
+      "phien_am": "Xīn Zhōu xiàn",
+      "viet_name": "Tân Châu"
+    },
+    {
+      "id": 5,
+      "china_name": "阳明州县",
+      "phien_am": "Yáng Míng Zhōu xiàn",
+      "viet_name": "Dương Minh Châu"
+    },
+    {
+      "id": 6,
+      "china_name": "周城县",
+      "phien_am": "Zhōu Chéng xiàn",
+      "viet_name": "Châu Thành"
+    },
+    {
+      "id": 7,
+      "china_name": "和城县",
+      "phien_am": "Hé Chéng xiàn",
+      "viet_name": "Hòa Thành"
+    },
+    {
+      "id": 8,
+      "china_name": "滨桥县",
+      "phien_am": "Bīn Qiáo xiàn",
+      "viet_name": "Bến Cầu"
+    },
+    {
+      "id": 9,
+      "china_name": "鹅油县",
+      "phien_am": "É Yóu xiàn",
+      "viet_name": "Gò Dầu"
+    },
+    {
+      "id": 10,
+      "china_name": "长鹏县",
+      "phien_am": "Cháng Péng xiàn",
+      "viet_name": "Trảng Bàng"
+    },
+    {
+      "id": 1,
+      "china_name": "平阳省",
+      "phien_am": "Píng Yáng shěng",
+      "viet_name": "Bình Dương"
+    },
+    {
+      "id": 2,
+      "china_name": "土龙木市",
+      "phien_am": "Tǔ Lóng Mù shì",
+      "viet_name": "thị xã Thủ Dầu Một"
+    },
+    {
+      "id": 3,
+      "china_name": "变吉县",
+      "phien_am": "Biàn Jí xiàn",
+      "viet_name": "Bến Cát"
+    },
+    {
+      "id": 4,
+      "china_name": "油汀县",
+      "phien_am": "Yóu Tīng xiàn",
+      "viet_name": "Dầu Tiếng"
+    },
+    {
+      "id": 5,
+      "china_name": "新渊县",
+      "phien_am": "Xīn Yuān xiàn",
+      "viet_name": "Tân Uyên"
+    },
+    {
+      "id": 6,
+      "china_name": "富教县",
+      "phien_am": "Fù Jiào xiàn",
+      "viet_name": "Phú Giáo"
+    },
+    {
+      "id": 7,
+      "china_name": "顺安县",
+      "phien_am": "Shùn Ān xiàn",
+      "viet_name": "Thuận An"
+    },
+    {
+      "id": 8,
+      "china_name": "迤安县",
+      "phien_am": "Yǐ Ān xiàn",
+      "viet_name": "Dĩ An"
+    },
+    {
+      "id": 1,
+      "china_name": "巴地头顿省",
+      "phien_am": "Bā Dì Tóu Dùn shěng",
+      "viet_name": "Bà Rịa Vũng Tàu"
+    },
+    {
+      "id": 2,
+      "china_name": "头顿市",
+      "phien_am": "Tóu Dùn shì",
+      "viet_name": "thành phố Vũng Tàu"
+    },
+    {
+      "id": 3,
+      "china_name": "巴地市",
+      "phien_am": "Bā Dì shì",
+      "viet_name": "thị xã Bà Rịa"
+    },
+    {
+      "id": 4,
+      "china_name": "周德县",
+      "phien_am": "Zhōu Dé xiàn",
+      "viet_name": "Châu Đức"
+    },
+    {
+      "id": 5,
+      "china_name": "坦赭县",
+      "phien_am": "Tǎn Zhě xiàn",
+      "viet_name": "Đất Đỏ"
+    },
+    {
+      "id": 6,
+      "china_name": "隆田县",
+      "phien_am": "Lóng Tián xiàn",
+      "viet_name": "Long Điền"
+    },
+    {
+      "id": 7,
+      "china_name": "新城县",
+      "phien_am": "Xīn Chéng xiàn",
+      "viet_name": "Tân Thành"
+    },
+    {
+      "id": 8,
+      "china_name": "川木县",
+      "phien_am": "Chuān Mù xiàn",
+      "viet_name": "Xuyên Mộc"
+    },
+    {
+      "id": 9,
+      "china_name": "昆岛县",
+      "phien_am": "Kūn Dǎo xiàn",
+      "viet_name": "Côn Đảo"
+    },
+    {
+      "id": 1,
+      "china_name": "隆安省",
+      "phien_am": "Lóng Ān shěng",
+      "viet_name": "Long An"
+    },
+    {
+      "id": 2,
+      "china_name": "新安市",
+      "phien_am": "Xīn Ān shì",
+      "viet_name": "thành phố Tân An"
+    },
+    {
+      "id": 3,
+      "china_name": "边沥县",
+      "phien_am": "Biān Lì xiàn",
+      "viet_name": "Bến Lức"
+    },
+    {
+      "id": 4,
+      "china_name": "芹德县",
+      "phien_am": "Qín Dé xiàn",
+      "viet_name": "Cần Đước"
+    },
+    {
+      "id": 5,
+      "china_name": "芹宜县",
+      "phien_am": "Qín Yí xiàn",
+      "viet_name": "Cần Giuộc"
+    },
+    {
+      "id": 6,
+      "china_name": "周城县",
+      "phien_am": "Zhōu Chéng xiàn",
+      "viet_name": "Châu Thành"
+    },
+    {
+      "id": 7,
+      "china_name": "德和县",
+      "phien_am": "Dé Hé xiàn",
+      "viet_name": "Đức Hòa"
+    },
+    {
+      "id": 8,
+      "china_name": "德惠县",
+      "phien_am": "Dé Huì xiàn",
+      "viet_name": "Đức Huệ"
+    },
+    {
+      "id": 9,
+      "china_name": "沐化县",
+      "phien_am": "Mù Huà xiàn",
+      "viet_name": "Mộc Hoá"
+    },
+    {
+      "id": 10,
+      "china_name": "新兴县",
+      "phien_am": "Xīn Xīng xiàn",
+      "viet_name": "Tân Hưng"
+    },
+    {
+      "id": 11,
+      "china_name": "新盛县",
+      "phien_am": "Xīn Shèng xiàn",
+      "viet_name": "Tân Thạnh"
+    },
+    {
+      "id": 12,
+      "china_name": "新柱县",
+      "phien_am": "Xīn Zhù xiàn",
+      "viet_name": "Tân Trụ"
+    },
+    {
+      "id": 13,
+      "china_name": "盛化县",
+      "phien_am": "Shèng Huà xiàn",
+      "viet_name": "Thạnh Hóa"
+    },
+    {
+      "id": 14,
+      "china_name": "守承县",
+      "phien_am": "Shǒu Chéng xiàn",
+      "viet_name": "Thủ Thừa"
+    },
+    {
+      "id": 15,
+      "china_name": "永兴县",
+      "phien_am": "Yǒng Xìng xiàn",
+      "viet_name": "Vĩnh Hưng"
+    },
+    {
+      "id": 1,
+      "china_name": "同塔省",
+      "phien_am": "Tóng Tǎ shěng",
+      "viet_name": "Đồng Tháp"
+    },
+    {
+      "id": 2,
+      "china_name": "高朗市",
+      "phien_am": "Gāo lǎng shì",
+      "viet_name": "Thành phố Cao Lãnh"
+    },
+    {
+      "id": 3,
+      "china_name": "沙沥市社",
+      "phien_am": "Shā lì shì shè",
+      "viet_name": "thị xã Sa Đéc"
+    },
+    {
+      "id": 4,
+      "china_name": "鸿御市社",
+      "phien_am": "Hóng yù shì shè",
+      "viet_name": "thị xã Hồng Ngự"
+    },
+    {
+      "id": 5,
+      "china_name": "高朗县",
+      "phien_am": "Gāo lǎng xiàn",
+      "viet_name": "Cao Lãnh"
+    },
+    {
+      "id": 6,
+      "china_name": "新鸿县",
+      "phien_am": "Xīn hóng xiàn",
+      "viet_name": "Tân Hồng"
+    },
+    {
+      "id": 7,
+      "china_name": "鸿御县",
+      "phien_am": "Hóng yù xiàn",
+      "viet_name": "Hồng Ngự"
+    },
+    {
+      "id": 8,
+      "china_name": "三农县",
+      "phien_am": "Sān nóng xiàn",
+      "viet_name": "Tam Nông"
+    },
+    {
+      "id": 9,
+      "china_name": "青平县",
+      "phien_am": "Qīng píng xiàn",
+      "viet_name": "Thanh Bình"
+    },
+    {
+      "id": 10,
+      "china_name": "塔梅县",
+      "phien_am": "Tǎ méi xiàn",
+      "viet_name": "Tháp Mười"
+    },
+    {
+      "id": 11,
+      "china_name": "陆武县",
+      "phien_am": "Lù wǔ xiàn",
+      "viet_name": "Lấp Vò"
+    },
+    {
+      "id": 12,
+      "china_name": "来头县",
+      "phien_am": "Lái tóu xiàn",
+      "viet_name": "Lai Vung"
+    },
+    {
+      "id": 13,
+      "china_name": "周城县",
+      "phien_am": "Zhōu chéng xiàn",
+      "viet_name": "Châu Thành"
+    },
+    {
+      "id": 1,
+      "china_name": "前江省",
+      "phien_am": "Qián Jiāng shěng",
+      "viet_name": "Tiền Giang"
+    },
+    {
+      "id": 2,
+      "china_name": "美荻市",
+      "phien_am": "Měi Dí shì",
+      "viet_name": "thành phố Mỹ Tho"
+    },
+    {
+      "id": 3,
+      "china_name": "鹅贡市",
+      "phien_am": "É Gòng shì",
+      "viet_name": "thị xã Gò Công"
+    },
+    {
+      "id": 4,
+      "china_name": "鹅贡东县",
+      "phien_am": "É Gòng Dōng xiàn",
+      "viet_name": "Gò Công Đông"
+    },
+    {
+      "id": 5,
+      "china_name": "鹅贡西县",
+      "phien_am": "É Gòng Xī xiàn",
+      "viet_name": "Gò Công Tây"
+    },
+    {
+      "id": 6,
+      "china_name": "米市县",
+      "phien_am": "Mǐ Shì xiàn",
+      "viet_name": "Chợ Gạo"
+    },
+    {
+      "id": 7,
+      "china_name": "周城县",
+      "phien_am": "Zhōu Chéng xiàn",
+      "viet_name": "Châu Thành"
+    },
+    {
+      "id": 8,
+      "china_name": "新福县",
+      "phien_am": "Xīn Fú xiàn",
+      "viet_name": "Tân Phước"
+    },
+    {
+      "id": 9,
+      "china_name": "凯来县",
+      "phien_am": "Kǎi Lái xiàn",
+      "viet_name": "Cai Lậy"
+    },
+    {
+      "id": 10,
+      "china_name": "凯比县",
+      "phien_am": "Kǎi Bǐ xiàn",
+      "viet_name": "Cái Bè"
+    },
+    {
+      "id": 11,
+      "china_name": "新富东县",
+      "phien_am": "Xīnfù dōng xiàn",
+      "viet_name": "Tân Phú Đông"
+    },
+    {
+      "id": 1,
+      "china_name": "安江省",
+      "phien_am": "Ānjiāngshěng",
+      "viet_name": "An Giang"
+    },
+    {
+      "id": 2,
+      "china_name": "龙川市",
+      "phien_am": "Lóng chuān shì",
+      "viet_name": "thành phố Long Xuyên"
+    },
+    {
+      "id": 3,
+      "china_name": "朱笃市",
+      "phien_am": "Zhū dǔ shì",
+      "viet_name": "thị xã Châu Đốc"
+    },
+    {
+      "id": 4,
+      "china_name": "安富县",
+      "phien_am": "Ānfù xiàn",
+      "viet_name": "An Phú"
+    },
+    {
+      "id": 5,
+      "china_name": "周富县",
+      "phien_am": "Zhōu fù xiàn",
+      "viet_name": "Châu Phú"
+    },
+    {
+      "id": 6,
+      "china_name": "周城县",
+      "phien_am": "Zhōu chéng xiàn",
+      "viet_name": "Châu Thành"
+    },
+    {
+      "id": 7,
+      "china_name": "新市县",
+      "phien_am": "Xīn shì xiàn",
+      "viet_name": "Chợ Mới"
+    },
+    {
+      "id": 8,
+      "china_name": "富新县",
+      "phien_am": "Fù xīn xiàn",
+      "viet_name": "Phú Tân"
+    },
+    {
+      "id": 9,
+      "china_name": "新州县",
+      "phien_am": "Xīn zhōu xiàn",
+      "viet_name": "Tân Châu"
+    },
+    {
+      "id": 10,
+      "china_name": "话山县",
+      "phien_am": "Huà shān xiàn",
+      "viet_name": "Thoại Sơn"
+    },
+    {
+      "id": 11,
+      "china_name": "靖边县",
+      "phien_am": "Jìng biān xiàn",
+      "viet_name": "Tịnh Biên"
+    },
+    {
+      "id": 12,
+      "china_name": "知尊县",
+      "phien_am": "Zhī zūn xiàn",
+      "viet_name": "Tri Tôn"
+    },
+    {
+      "id": 1,
+      "china_name": "坚江省",
+      "phien_am": "Jiān Jiāng shěng",
+      "viet_name": "Kiên Giang"
+    },
+    {
+      "id": 2,
+      "china_name": "迪石市",
+      "phien_am": "Dí Shí shì",
+      "viet_name": "thành phố Rạch Giá"
+    },
+    {
+      "id": 3,
+      "china_name": "河仙市",
+      "phien_am": "Hé Xiān shì",
+      "viet_name": "thị xã Hà Tiên"
+    },
+    {
+      "id": 4,
+      "china_name": "安边县",
+      "phien_am": "Ān Biān xiàn",
+      "viet_name": "An Biên"
+    },
+    {
+      "id": 5,
+      "china_name": "安明县",
+      "phien_am": "Ān Míng xiàn",
+      "viet_name": "An Minh"
+    },
+    {
+      "id": 6,
+      "china_name": "周城县",
+      "phien_am": "Zhōu Chéng xiàn",
+      "viet_name": "Châu Thành"
+    },
+    {
+      "id": 7,
+      "china_name": "榕莲县",
+      "phien_am": "Róng Lián xiàn",
+      "viet_name": "Giồng Riềng"
+    },
+    {
+      "id": 8,
+      "china_name": "江城县",
+      "phien_am": "Jiāngchéng xiàn",
+      "viet_name": "Giang Thành"
+    },
+    {
+      "id": 9,
+      "china_name": "果瓜县",
+      "phien_am": "Guǒ Guā xiàn",
+      "viet_name": "Gò Quao"
+    },
+    {
+      "id": 10,
+      "china_name": "鸿达县",
+      "phien_am": "Hóng Dá xiàn",
+      "viet_name": "Hòn Đất"
+    },
+    {
+      "id": 11,
+      "china_name": "建海岛县",
+      "phien_am": "Jiàn Hǎi dǎo xiàn",
+      "viet_name": "huyện đảo Kiên Hải"
+    },
+    {
+      "id": 12,
+      "china_name": "建良县",
+      "phien_am": "Jiàn Liáng xiàn",
+      "viet_name": "Kiên Lương"
+    },
+    {
+      "id": 13,
+      "china_name": "富国岛县",
+      "phien_am": "Fù Guó dǎo xiàn",
+      "viet_name": "huyện đảo Phú Quốc"
+    },
+    {
+      "id": 14,
+      "china_name": "新协县",
+      "phien_am": "Xīn Xié xiàn",
+      "viet_name": "Tân Hiệp"
+    },
+    {
+      "id": 15,
+      "china_name": "永顺县",
+      "phien_am": "Yǒng Shùn xiàn",
+      "viet_name": "Vĩnh Thuận"
+    },
+    {
+      "id": 16,
+      "china_name": "幽明上县",
+      "phien_am": "Yōu Míng Shàng xiàn",
+      "viet_name": "U Minh Thượng"
+    },
+    {
+      "id": 1,
+      "china_name": "永龙省",
+      "phien_am": "Yǒng Lóng shěng",
+      "viet_name": "Vĩnh Long"
+    },
+    {
+      "id": 2,
+      "china_name": "永龙市",
+      "phien_am": "Yǒng Lóng shì",
+      "viet_name": "thị xã Vĩnh Long"
+    },
+    {
+      "id": 3,
+      "china_name": "平明县",
+      "phien_am": "Píng Míng xiàn",
+      "viet_name": "Bình Minh"
+    },
+    {
+      "id": 4,
+      "china_name": "平新县",
+      "phien_am": "Píng Xīn xiàn",
+      "viet_name": "Bình Tân"
+    },
+    {
+      "id": 5,
+      "china_name": "龙湖县",
+      "phien_am": "Lóng Hú xiàn",
+      "viet_name": "Long Hồ"
+    },
+    {
+      "id": 6,
+      "china_name": "芒池县",
+      "phien_am": "Máng Chí xiàn",
+      "viet_name": "Măng Thít"
+    },
+    {
+      "id": 7,
+      "china_name": "三平县",
+      "phien_am": "Sān Píng xiàn",
+      "viet_name": "Tam Bình"
+    },
+    {
+      "id": 8,
+      "china_name": "茶温县",
+      "phien_am": "Chá Wēn xiàn",
+      "viet_name": "Trà Ôn"
+    },
+    {
+      "id": 9,
+      "china_name": "泳廉县",
+      "phien_am": "Yǒng Lián xiàn",
+      "viet_name": "Vũng Liêm"
+    },
+    {
+      "id": 1,
+      "china_name": "槟椥省",
+      "phien_am": "Bīn zhī shěng",
+      "viet_name": "Bến Tre"
+    },
+    {
+      "id": 2,
+      "china_name": "槟椥市",
+      "phien_am": "Bīn zhī shì",
+      "viet_name": "thành phố Bến Tre"
+    },
+    {
+      "id": 3,
+      "china_name": "巴知县",
+      "phien_am": "Ba zhīxiàn",
+      "viet_name": "Ba Tri"
+    },
+    {
+      "id": 4,
+      "china_name": "平大县",
+      "phien_am": "Píng dà xiàn",
+      "viet_name": "Bình Đại"
+    },
+    {
+      "id": 5,
+      "china_name": "周城县",
+      "phien_am": "Zhōu chéng xiàn",
+      "viet_name": "Châu Thành"
+    },
+    {
+      "id": 6,
+      "china_name": "真洛县",
+      "phien_am": "Zhēn luò xiàn",
+      "viet_name": "Chợ Lách"
+    },
+    {
+      "id": 7,
+      "china_name": "榕珍县",
+      "phien_am": "Róng zhēn xiàn",
+      "viet_name": "Giồng Trôm"
+    },
+    {
+      "id": 8,
+      "china_name": "梅祺县",
+      "phien_am": "Méi qí xiàn",
+      "viet_name": "Mỏ Cày"
+    },
+    {
+      "id": 9,
+      "china_name": "盛富县",
+      "phien_am": "Shèng fù xiàn",
+      "viet_name": "Thạnh Phú"
+    },
+    {
+      "id": 1,
+      "china_name": "茶荣省",
+      "phien_am": "Chá Róng shěng",
+      "viet_name": "Trà Vinh"
+    },
+    {
+      "id": 2,
+      "china_name": "茶荣市",
+      "phien_am": "Chá Róng shì",
+      "viet_name": "thị xã Trà Vinh"
+    },
+    {
+      "id": 3,
+      "china_name": "港龙县",
+      "phien_am": "Gǎng Lóng xiàn",
+      "viet_name": "Càng Long"
+    },
+    {
+      "id": 4,
+      "china_name": "周城县",
+      "phien_am": "Zhōu Chéng xiàn",
+      "viet_name": "Châu Thành"
+    },
+    {
+      "id": 5,
+      "china_name": "划桥县",
+      "phien_am": "Huà Qiáo xiàn",
+      "viet_name": "Cầu Kè"
+    },
+    {
+      "id": 6,
+      "china_name": "小芹县",
+      "phien_am": "Xiǎo Qín xiàn",
+      "viet_name": "Tiểu Cần"
+    },
+    {
+      "id": 7,
+      "china_name": "横桥县",
+      "phien_am": "Héng Qiáo xiàn",
+      "viet_name": "Cầu Ngang"
+    },
+    {
+      "id": 8,
+      "china_name": "茶句县",
+      "phien_am": "Chá Jù xiàn",
+      "viet_name": "Trà Cú"
+    },
+    {
+      "id": 9,
+      "china_name": "沿海县",
+      "phien_am": "Yán Hǎi xiàn",
+      "viet_name": "Duyên Hải"
+    },
+    {
+      "id": 1,
+      "china_name": "芹苴市",
+      "phien_am": "Qín Jū shì",
+      "viet_name": "Cần Thơ"
+    },
+    {
+      "id": 2,
+      "china_name": "宁桥郡",
+      "phien_am": "Níng qiáo jùn",
+      "viet_name": "Ninh Kiều"
+    },
+    {
+      "id": 3,
+      "china_name": "平水郡",
+      "phien_am": "Píng shuǐ jùn",
+      "viet_name": "Bình Thủy"
+    },
+    {
+      "id": 4,
+      "china_name": "丐冷郡",
+      "phien_am": "Gài lěng jùn",
+      "viet_name": "Cái Răng"
+    },
+    {
+      "id": 5,
+      "china_name": "乌门郡",
+      "phien_am": "Wū mén jùn",
+      "viet_name": "Ô Môn"
+    },
+    {
+      "id": 6,
+      "china_name": "丰田县",
+      "phien_am": "Fēng tián xiàn",
+      "viet_name": "Phong Điền"
+    },
+    {
+      "id": 7,
+      "china_name": "红旗县",
+      "phien_am": "Hóng qí xiàn",
+      "viet_name": "Cờ Đỏ"
+    },
+    {
+      "id": 8,
+      "china_name": "秃碌县",
+      "phien_am": "Tū Lù xiàn",
+      "viet_name": "Thốt Nốt"
+    },
+    {
+      "id": 9,
+      "china_name": "永盛县",
+      "phien_am": "Yǒng shèng xiàn",
+      "viet_name": "Vĩnh Thạnh"
+    },
+    {
+      "id": 10,
+      "china_name": "秃来县",
+      "phien_am": "Tū lái xiàn",
+      "viet_name": "Thới Lai"
+    },
+    {
+      "id": 1,
+      "china_name": "后江省",
+      "phien_am": "Hòu Jiāngshěng",
+      "viet_name": "Hậu Giang"
+    },
+    {
+      "id": 2,
+      "china_name": "渭清市",
+      "phien_am": "Wèi Qīng shì",
+      "viet_name": "thị xã Vị Thanh"
+    },
+    {
+      "id": 3,
+      "china_name": "周城县",
+      "phien_am": "Zhōu Chéng xiàn",
+      "viet_name": "Châu Thành"
+    },
+    {
+      "id": 4,
+      "china_name": "周城二县",
+      "phien_am": "Zhōu Chéng èr xiàn",
+      "viet_name": "Châu Thành A"
+    },
+    {
+      "id": 5,
+      "china_name": "隆美县",
+      "phien_am": "Lóng Měi xiàn",
+      "viet_name": "Long Mỹ"
+    },
+    {
+      "id": 6,
+      "china_name": "凤协县",
+      "phien_am": "Fèng Xié xiàn",
+      "viet_name": "Phụng Hiệp"
+    },
+    {
+      "id": 7,
+      "china_name": "渭水县",
+      "phien_am": "Wèi Shuǐ xiàn",
+      "viet_name": "Vị Thủy"
+    },
+    {
+      "id": 1,
+      "china_name": "朔庄省",
+      "phien_am": "Xù Zhēnshěng",
+      "viet_name": "Sóc Trăng"
+    },
+    {
+      "id": 2,
+      "china_name": "朔庄市",
+      "phien_am": "Shuò Zhuāng shì",
+      "viet_name": "thành phố Sóc Trăng"
+    },
+    {
+      "id": 3,
+      "china_name": "计策县",
+      "phien_am": "Jì Cè xiàn",
+      "viet_name": "Kế Sách"
+    },
+    {
+      "id": 4,
+      "china_name": "隆富县",
+      "phien_am": "Lóng Fù xiàn",
+      "viet_name": "Long Phú"
+    },
+    {
+      "id": 5,
+      "china_name": "古劳蓉县",
+      "phien_am": "Gǔ Láo Róng xiàn",
+      "viet_name": "Cù Lao Dung"
+    },
+    {
+      "id": 6,
+      "china_name": "美秀县",
+      "phien_am": "Měi Xiù xiàn",
+      "viet_name": "Mỹ Tú"
+    },
+    {
+      "id": 7,
+      "china_name": "美川县",
+      "phien_am": "Měi Chuān xiàn",
+      "viet_name": "Mỹ Xuyên"
+    },
+    {
+      "id": 8,
+      "china_name": "盛治县",
+      "phien_am": "Shèng Zhì xiàn",
+      "viet_name": "Thạnh Trị"
+    },
+    {
+      "id": 9,
+      "china_name": "永州县",
+      "phien_am": "Yǒng Zhōu xiàn",
+      "viet_name": "Vĩnh Châu"
+    },
+    {
+      "id": 10,
+      "china_name": "芽南县",
+      "phien_am": "Yá Nán xiàn",
+      "viet_name": "Ngã Năm"
+    },
+    {
+      "id": 11,
+      "china_name": "镇夷县",
+      "phien_am": "Zhèn yí xiàn",
+      "viet_name": "Trần Đề"
+    },
+    {
+      "id": 1,
+      "china_name": "薄辽省",
+      "phien_am": "Báo liáo shěng",
+      "viet_name": "Bạc Liêu"
+    },
+    {
+      "id": 2,
+      "china_name": "薄辽市",
+      "phien_am": "Báo liáo shì",
+      "viet_name": "thị xã Bạc Liêu"
+    },
+    {
+      "id": 3,
+      "china_name": "福隆县",
+      "phien_am": "Fú lóng xiàn",
+      "viet_name": "Phước Long"
+    },
+    {
+      "id": 4,
+      "china_name": "源民县",
+      "phien_am": "Yuán mín xiàn",
+      "viet_name": "Hồng Dân"
+    },
+    {
+      "id": 5,
+      "china_name": "永利县",
+      "phien_am": "Yǒnglì xiàn",
+      "viet_name": "Vĩnh Lợi"
+    },
+    {
+      "id": 6,
+      "china_name": "嘉莱县",
+      "phien_am": "Jiā lái xiàn",
+      "viet_name": "Giá Rai"
+    },
+    {
+      "id": 7,
+      "china_name": "东海县",
+      "phien_am": "Dōnghǎi xiàn",
+      "viet_name": "Đông Hải"
+    },
+    {
+      "id": 8,
+      "china_name": "和平县",
+      "phien_am": "Hépíng xiàn",
+      "viet_name": "Hòa Bình"
+    },
+    {
+      "id": 1,
+      "china_name": "金瓯省",
+      "phien_am": "Jīn ōu shěng",
+      "viet_name": "Cà Mau"
+    },
+    {
+      "id": 2,
+      "china_name": "金瓯市",
+      "phien_am": "Jīn ōu shì",
+      "viet_name": "thành phố Cà Mau"
+    },
+    {
+      "id": 3,
+      "china_name": "蝙蝠潭县",
+      "phien_am": "Biān fú tán xiàn",
+      "viet_name": "Đầm Dơi"
+    },
+    {
+      "id": 4,
+      "china_name": "玉显县",
+      "phien_am": "Yù xiǎn xiàn",
+      "viet_name": "Ngọc Hiển"
+    },
+    {
+      "id": 5,
+      "china_name": "丐诺县",
+      "phien_am": "Gài nuò xiàn",
+      "viet_name": "Cái Nước"
+    },
+    {
+      "id": 6,
+      "china_name": "陈文时县",
+      "phien_am": "Chén Wénshí xiàn",
+      "viet_name": "Trần Văn Thời"
+    },
+    {
+      "id": 7,
+      "china_name": "幽冥县",
+      "phien_am": "Yōu míng xiàn",
+      "viet_name": "U Minh"
+    },
+    {
+      "id": 8,
+      "china_name": "太平县",
+      "phien_am": "Tài píng xiàn",
+      "viet_name": "Thới Bình"
+    },
+    {
+      "id": 9,
+      "china_name": "南根县",
+      "phien_am": "Nán gēn xiàn",
+      "viet_name": "Năm Căn"
+    },
+    {
+      "id": 10,
+      "china_name": "富新县",
+      "phien_am": "Fù xīn xiàn",
+      "viet_name": "Phú Tân"
+    }
+]
